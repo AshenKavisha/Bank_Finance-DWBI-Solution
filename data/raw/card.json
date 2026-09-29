@@ -1,0 +1,5354 @@
+[
+    {
+        "card_id":1005,
+        "disp_id":9285,
+        "type":"classic",
+        "issued":"931107 00:00:00"
+    },
+    {
+        "card_id":104,
+        "disp_id":588,
+        "type":"classic",
+        "issued":"940119 00:00:00"
+    },
+    {
+        "card_id":747,
+        "disp_id":4915,
+        "type":"classic",
+        "issued":"940205 00:00:00"
+    },
+    {
+        "card_id":70,
+        "disp_id":439,
+        "type":"classic",
+        "issued":"940208 00:00:00"
+    },
+    {
+        "card_id":577,
+        "disp_id":3687,
+        "type":"classic",
+        "issued":"940215 00:00:00"
+    },
+    {
+        "card_id":377,
+        "disp_id":2429,
+        "type":"classic",
+        "issued":"940303 00:00:00"
+    },
+    {
+        "card_id":721,
+        "disp_id":4680,
+        "type":"junior",
+        "issued":"940405 00:00:00"
+    },
+    {
+        "card_id":437,
+        "disp_id":2762,
+        "type":"classic",
+        "issued":"940601 00:00:00"
+    },
+    {
+        "card_id":188,
+        "disp_id":1146,
+        "type":"classic",
+        "issued":"940619 00:00:00"
+    },
+    {
+        "card_id":13,
+        "disp_id":87,
+        "type":"classic",
+        "issued":"940629 00:00:00"
+    },
+    {
+        "card_id":732,
+        "disp_id":4763,
+        "type":"classic",
+        "issued":"940721 00:00:00"
+    },
+    {
+        "card_id":181,
+        "disp_id":1066,
+        "type":"classic",
+        "issued":"940819 00:00:00"
+    },
+    {
+        "card_id":384,
+        "disp_id":2475,
+        "type":"junior",
+        "issued":"940915 00:00:00"
+    },
+    {
+        "card_id":309,
+        "disp_id":1946,
+        "type":"classic",
+        "issued":"940919 00:00:00"
+    },
+    {
+        "card_id":478,
+        "disp_id":3084,
+        "type":"classic",
+        "issued":"941009 00:00:00"
+    },
+    {
+        "card_id":563,
+        "disp_id":3589,
+        "type":"classic",
+        "issued":"941021 00:00:00"
+    },
+    {
+        "card_id":369,
+        "disp_id":2363,
+        "type":"classic",
+        "issued":"941108 00:00:00"
+    },
+    {
+        "card_id":376,
+        "disp_id":2428,
+        "type":"classic",
+        "issued":"941110 00:00:00"
+    },
+    {
+        "card_id":483,
+        "disp_id":3115,
+        "type":"classic",
+        "issued":"941124 00:00:00"
+    },
+    {
+        "card_id":174,
+        "disp_id":1039,
+        "type":"junior",
+        "issued":"941204 00:00:00"
+    },
+    {
+        "card_id":658,
+        "disp_id":4251,
+        "type":"classic",
+        "issued":"941225 00:00:00"
+    },
+    {
+        "card_id":763,
+        "disp_id":5138,
+        "type":"junior",
+        "issued":"941230 00:00:00"
+    },
+    {
+        "card_id":778,
+        "disp_id":5275,
+        "type":"classic",
+        "issued":"950102 00:00:00"
+    },
+    {
+        "card_id":1039,
+        "disp_id":9837,
+        "type":"classic",
+        "issued":"950107 00:00:00"
+    },
+    {
+        "card_id":477,
+        "disp_id":3082,
+        "type":"junior",
+        "issued":"950116 00:00:00"
+    },
+    {
+        "card_id":168,
+        "disp_id":1018,
+        "type":"classic",
+        "issued":"950124 00:00:00"
+    },
+    {
+        "card_id":314,
+        "disp_id":1999,
+        "type":"junior",
+        "issued":"950127 00:00:00"
+    },
+    {
+        "card_id":468,
+        "disp_id":3023,
+        "type":"classic",
+        "issued":"950130 00:00:00"
+    },
+    {
+        "card_id":208,
+        "disp_id":1246,
+        "type":"gold",
+        "issued":"950208 00:00:00"
+    },
+    {
+        "card_id":766,
+        "disp_id":5200,
+        "type":"classic",
+        "issued":"950211 00:00:00"
+    },
+    {
+        "card_id":464,
+        "disp_id":2984,
+        "type":"classic",
+        "issued":"950221 00:00:00"
+    },
+    {
+        "card_id":497,
+        "disp_id":3184,
+        "type":"classic",
+        "issued":"950303 00:00:00"
+    },
+    {
+        "card_id":166,
+        "disp_id":999,
+        "type":"classic",
+        "issued":"950305 00:00:00"
+    },
+    {
+        "card_id":15,
+        "disp_id":114,
+        "type":"classic",
+        "issued":"950305 00:00:00"
+    },
+    {
+        "card_id":503,
+        "disp_id":3225,
+        "type":"classic",
+        "issued":"950308 00:00:00"
+    },
+    {
+        "card_id":1038,
+        "disp_id":9787,
+        "type":"junior",
+        "issued":"950330 00:00:00"
+    },
+    {
+        "card_id":737,
+        "disp_id":4791,
+        "type":"classic",
+        "issued":"950413 00:00:00"
+    },
+    {
+        "card_id":418,
+        "disp_id":2623,
+        "type":"classic",
+        "issued":"950414 00:00:00"
+    },
+    {
+        "card_id":759,
+        "disp_id":5117,
+        "type":"junior",
+        "issued":"950418 00:00:00"
+    },
+    {
+        "card_id":223,
+        "disp_id":1353,
+        "type":"classic",
+        "issued":"950418 00:00:00"
+    },
+    {
+        "card_id":5,
+        "disp_id":51,
+        "type":"junior",
+        "issued":"950424 00:00:00"
+    },
+    {
+        "card_id":159,
+        "disp_id":946,
+        "type":"classic",
+        "issued":"950501 00:00:00"
+    },
+    {
+        "card_id":1223,
+        "disp_id":13231,
+        "type":"junior",
+        "issued":"950502 00:00:00"
+    },
+    {
+        "card_id":662,
+        "disp_id":4293,
+        "type":"classic",
+        "issued":"950509 00:00:00"
+    },
+    {
+        "card_id":779,
+        "disp_id":5323,
+        "type":"junior",
+        "issued":"950521 00:00:00"
+    },
+    {
+        "card_id":1040,
+        "disp_id":9890,
+        "type":"junior",
+        "issued":"950528 00:00:00"
+    },
+    {
+        "card_id":545,
+        "disp_id":3458,
+        "type":"classic",
+        "issued":"950530 00:00:00"
+    },
+    {
+        "card_id":467,
+        "disp_id":3019,
+        "type":"classic",
+        "issued":"950605 00:00:00"
+    },
+    {
+        "card_id":1247,
+        "disp_id":13660,
+        "type":"classic",
+        "issued":"950613 00:00:00"
+    },
+    {
+        "card_id":652,
+        "disp_id":4211,
+        "type":"classic",
+        "issued":"950616 00:00:00"
+    },
+    {
+        "card_id":559,
+        "disp_id":3573,
+        "type":"classic",
+        "issued":"950617 00:00:00"
+    },
+    {
+        "card_id":719,
+        "disp_id":4663,
+        "type":"classic",
+        "issued":"950624 00:00:00"
+    },
+    {
+        "card_id":397,
+        "disp_id":2513,
+        "type":"classic",
+        "issued":"950624 00:00:00"
+    },
+    {
+        "card_id":107,
+        "disp_id":593,
+        "type":"classic",
+        "issued":"950627 00:00:00"
+    },
+    {
+        "card_id":661,
+        "disp_id":4270,
+        "type":"classic",
+        "issued":"950703 00:00:00"
+    },
+    {
+        "card_id":484,
+        "disp_id":3116,
+        "type":"classic",
+        "issued":"950704 00:00:00"
+    },
+    {
+        "card_id":501,
+        "disp_id":3197,
+        "type":"classic",
+        "issued":"950709 00:00:00"
+    },
+    {
+        "card_id":422,
+        "disp_id":2650,
+        "type":"junior",
+        "issued":"950711 00:00:00"
+    },
+    {
+        "card_id":705,
+        "disp_id":4555,
+        "type":"classic",
+        "issued":"950712 00:00:00"
+    },
+    {
+        "card_id":410,
+        "disp_id":2569,
+        "type":"classic",
+        "issued":"950720 00:00:00"
+    },
+    {
+        "card_id":136,
+        "disp_id":778,
+        "type":"classic",
+        "issued":"950728 00:00:00"
+    },
+    {
+        "card_id":592,
+        "disp_id":3782,
+        "type":"junior",
+        "issued":"950807 00:00:00"
+    },
+    {
+        "card_id":262,
+        "disp_id":1647,
+        "type":"junior",
+        "issued":"950824 00:00:00"
+    },
+    {
+        "card_id":18,
+        "disp_id":128,
+        "type":"classic",
+        "issued":"950825 00:00:00"
+    },
+    {
+        "card_id":3,
+        "disp_id":41,
+        "type":"gold",
+        "issued":"950903 00:00:00"
+    },
+    {
+        "card_id":98,
+        "disp_id":537,
+        "type":"classic",
+        "issued":"950906 00:00:00"
+    },
+    {
+        "card_id":167,
+        "disp_id":1011,
+        "type":"classic",
+        "issued":"950915 00:00:00"
+    },
+    {
+        "card_id":97,
+        "disp_id":531,
+        "type":"junior",
+        "issued":"950919 00:00:00"
+    },
+    {
+        "card_id":699,
+        "disp_id":4532,
+        "type":"classic",
+        "issued":"950926 00:00:00"
+    },
+    {
+        "card_id":342,
+        "disp_id":2157,
+        "type":"classic",
+        "issued":"950927 00:00:00"
+    },
+    {
+        "card_id":713,
+        "disp_id":4627,
+        "type":"classic",
+        "issued":"950930 00:00:00"
+    },
+    {
+        "card_id":118,
+        "disp_id":652,
+        "type":"classic",
+        "issued":"951022 00:00:00"
+    },
+    {
+        "card_id":783,
+        "disp_id":5433,
+        "type":"junior",
+        "issued":"951024 00:00:00"
+    },
+    {
+        "card_id":1103,
+        "disp_id":11189,
+        "type":"classic",
+        "issued":"951104 00:00:00"
+    },
+    {
+        "card_id":504,
+        "disp_id":3230,
+        "type":"junior",
+        "issued":"951106 00:00:00"
+    },
+    {
+        "card_id":261,
+        "disp_id":1629,
+        "type":"gold",
+        "issued":"951109 00:00:00"
+    },
+    {
+        "card_id":296,
+        "disp_id":1876,
+        "type":"gold",
+        "issued":"951113 00:00:00"
+    },
+    {
+        "card_id":113,
+        "disp_id":629,
+        "type":"junior",
+        "issued":"951116 00:00:00"
+    },
+    {
+        "card_id":92,
+        "disp_id":508,
+        "type":"classic",
+        "issued":"951120 00:00:00"
+    },
+    {
+        "card_id":1225,
+        "disp_id":13268,
+        "type":"classic",
+        "issued":"951122 00:00:00"
+    },
+    {
+        "card_id":393,
+        "disp_id":2498,
+        "type":"junior",
+        "issued":"951203 00:00:00"
+    },
+    {
+        "card_id":695,
+        "disp_id":4507,
+        "type":"classic",
+        "issued":"951215 00:00:00"
+    },
+    {
+        "card_id":666,
+        "disp_id":4328,
+        "type":"junior",
+        "issued":"951225 00:00:00"
+    },
+    {
+        "card_id":462,
+        "disp_id":2978,
+        "type":"classic",
+        "issued":"951230 00:00:00"
+    },
+    {
+        "card_id":85,
+        "disp_id":489,
+        "type":"classic",
+        "issued":"951231 00:00:00"
+    },
+    {
+        "card_id":337,
+        "disp_id":2141,
+        "type":"classic",
+        "issued":"960101 00:00:00"
+    },
+    {
+        "card_id":771,
+        "disp_id":5233,
+        "type":"classic",
+        "issued":"960108 00:00:00"
+    },
+    {
+        "card_id":379,
+        "disp_id":2431,
+        "type":"classic",
+        "issued":"960112 00:00:00"
+    },
+    {
+        "card_id":106,
+        "disp_id":592,
+        "type":"classic",
+        "issued":"960114 00:00:00"
+    },
+    {
+        "card_id":606,
+        "disp_id":3883,
+        "type":"classic",
+        "issued":"960122 00:00:00"
+    },
+    {
+        "card_id":427,
+        "disp_id":2688,
+        "type":"gold",
+        "issued":"960125 00:00:00"
+    },
+    {
+        "card_id":202,
+        "disp_id":1228,
+        "type":"classic",
+        "issued":"960204 00:00:00"
+    },
+    {
+        "card_id":814,
+        "disp_id":5911,
+        "type":"classic",
+        "issued":"960215 00:00:00"
+    },
+    {
+        "card_id":1064,
+        "disp_id":10328,
+        "type":"classic",
+        "issued":"960217 00:00:00"
+    },
+    {
+        "card_id":14,
+        "disp_id":112,
+        "type":"classic",
+        "issued":"960217 00:00:00"
+    },
+    {
+        "card_id":423,
+        "disp_id":2657,
+        "type":"classic",
+        "issued":"960219 00:00:00"
+    },
+    {
+        "card_id":989,
+        "disp_id":9119,
+        "type":"classic",
+        "issued":"960221 00:00:00"
+    },
+    {
+        "card_id":364,
+        "disp_id":2329,
+        "type":"classic",
+        "issued":"960229 00:00:00"
+    },
+    {
+        "card_id":267,
+        "disp_id":1691,
+        "type":"junior",
+        "issued":"960309 00:00:00"
+    },
+    {
+        "card_id":621,
+        "disp_id":3970,
+        "type":"junior",
+        "issued":"960319 00:00:00"
+    },
+    {
+        "card_id":1139,
+        "disp_id":11836,
+        "type":"junior",
+        "issued":"960326 00:00:00"
+    },
+    {
+        "card_id":725,
+        "disp_id":4715,
+        "type":"junior",
+        "issued":"960330 00:00:00"
+    },
+    {
+        "card_id":150,
+        "disp_id":859,
+        "type":"classic",
+        "issued":"960330 00:00:00"
+    },
+    {
+        "card_id":302,
+        "disp_id":1900,
+        "type":"classic",
+        "issued":"960331 00:00:00"
+    },
+    {
+        "card_id":372,
+        "disp_id":2395,
+        "type":"classic",
+        "issued":"960331 00:00:00"
+    },
+    {
+        "card_id":499,
+        "disp_id":3187,
+        "type":"classic",
+        "issued":"960403 00:00:00"
+    },
+    {
+        "card_id":229,
+        "disp_id":1384,
+        "type":"classic",
+        "issued":"960405 00:00:00"
+    },
+    {
+        "card_id":289,
+        "disp_id":1831,
+        "type":"junior",
+        "issued":"960408 00:00:00"
+    },
+    {
+        "card_id":1100,
+        "disp_id":11101,
+        "type":"junior",
+        "issued":"960410 00:00:00"
+    },
+    {
+        "card_id":37,
+        "disp_id":238,
+        "type":"classic",
+        "issued":"960420 00:00:00"
+    },
+    {
+        "card_id":286,
+        "disp_id":1812,
+        "type":"gold",
+        "issued":"960421 00:00:00"
+    },
+    {
+        "card_id":157,
+        "disp_id":907,
+        "type":"classic",
+        "issued":"960424 00:00:00"
+    },
+    {
+        "card_id":216,
+        "disp_id":1310,
+        "type":"junior",
+        "issued":"960424 00:00:00"
+    },
+    {
+        "card_id":977,
+        "disp_id":8968,
+        "type":"classic",
+        "issued":"960508 00:00:00"
+    },
+    {
+        "card_id":183,
+        "disp_id":1080,
+        "type":"classic",
+        "issued":"960508 00:00:00"
+    },
+    {
+        "card_id":945,
+        "disp_id":8342,
+        "type":"junior",
+        "issued":"960509 00:00:00"
+    },
+    {
+        "card_id":44,
+        "disp_id":268,
+        "type":"junior",
+        "issued":"960517 00:00:00"
+    },
+    {
+        "card_id":600,
+        "disp_id":3829,
+        "type":"classic",
+        "issued":"960520 00:00:00"
+    },
+    {
+        "card_id":127,
+        "disp_id":714,
+        "type":"classic",
+        "issued":"960523 00:00:00"
+    },
+    {
+        "card_id":764,
+        "disp_id":5159,
+        "type":"classic",
+        "issued":"960529 00:00:00"
+    },
+    {
+        "card_id":204,
+        "disp_id":1239,
+        "type":"junior",
+        "issued":"960530 00:00:00"
+    },
+    {
+        "card_id":1134,
+        "disp_id":11742,
+        "type":"classic",
+        "issued":"960531 00:00:00"
+    },
+    {
+        "card_id":312,
+        "disp_id":1971,
+        "type":"classic",
+        "issued":"960608 00:00:00"
+    },
+    {
+        "card_id":313,
+        "disp_id":1980,
+        "type":"classic",
+        "issued":"960617 00:00:00"
+    },
+    {
+        "card_id":641,
+        "disp_id":4116,
+        "type":"classic",
+        "issued":"960618 00:00:00"
+    },
+    {
+        "card_id":731,
+        "disp_id":4751,
+        "type":"classic",
+        "issued":"960623 00:00:00"
+    },
+    {
+        "card_id":84,
+        "disp_id":487,
+        "type":"classic",
+        "issued":"960626 00:00:00"
+    },
+    {
+        "card_id":265,
+        "disp_id":1680,
+        "type":"classic",
+        "issued":"960628 00:00:00"
+    },
+    {
+        "card_id":1176,
+        "disp_id":12502,
+        "type":"gold",
+        "issued":"960703 00:00:00"
+    },
+    {
+        "card_id":1233,
+        "disp_id":13382,
+        "type":"classic",
+        "issued":"960706 00:00:00"
+    },
+    {
+        "card_id":407,
+        "disp_id":2555,
+        "type":"classic",
+        "issued":"960711 00:00:00"
+    },
+    {
+        "card_id":320,
+        "disp_id":2045,
+        "type":"classic",
+        "issued":"960711 00:00:00"
+    },
+    {
+        "card_id":1187,
+        "disp_id":12635,
+        "type":"gold",
+        "issued":"960717 00:00:00"
+    },
+    {
+        "card_id":121,
+        "disp_id":666,
+        "type":"junior",
+        "issued":"960722 00:00:00"
+    },
+    {
+        "card_id":1055,
+        "disp_id":10171,
+        "type":"classic",
+        "issued":"960724 00:00:00"
+    },
+    {
+        "card_id":303,
+        "disp_id":1912,
+        "type":"classic",
+        "issued":"960801 00:00:00"
+    },
+    {
+        "card_id":651,
+        "disp_id":4201,
+        "type":"junior",
+        "issued":"960802 00:00:00"
+    },
+    {
+        "card_id":736,
+        "disp_id":4789,
+        "type":"classic",
+        "issued":"960803 00:00:00"
+    },
+    {
+        "card_id":24,
+        "disp_id":153,
+        "type":"junior",
+        "issued":"960805 00:00:00"
+    },
+    {
+        "card_id":587,
+        "disp_id":3763,
+        "type":"junior",
+        "issued":"960805 00:00:00"
+    },
+    {
+        "card_id":119,
+        "disp_id":655,
+        "type":"classic",
+        "issued":"960808 00:00:00"
+    },
+    {
+        "card_id":670,
+        "disp_id":4343,
+        "type":"classic",
+        "issued":"960808 00:00:00"
+    },
+    {
+        "card_id":227,
+        "disp_id":1380,
+        "type":"classic",
+        "issued":"960810 00:00:00"
+    },
+    {
+        "card_id":1164,
+        "disp_id":12269,
+        "type":"classic",
+        "issued":"960812 00:00:00"
+    },
+    {
+        "card_id":1043,
+        "disp_id":9974,
+        "type":"junior",
+        "issued":"960814 00:00:00"
+    },
+    {
+        "card_id":278,
+        "disp_id":1779,
+        "type":"classic",
+        "issued":"960815 00:00:00"
+    },
+    {
+        "card_id":103,
+        "disp_id":584,
+        "type":"junior",
+        "issued":"960817 00:00:00"
+    },
+    {
+        "card_id":673,
+        "disp_id":4353,
+        "type":"junior",
+        "issued":"960831 00:00:00"
+    },
+    {
+        "card_id":38,
+        "disp_id":242,
+        "type":"classic",
+        "issued":"960831 00:00:00"
+    },
+    {
+        "card_id":470,
+        "disp_id":3036,
+        "type":"classic",
+        "issued":"960902 00:00:00"
+    },
+    {
+        "card_id":890,
+        "disp_id":7422,
+        "type":"classic",
+        "issued":"960908 00:00:00"
+    },
+    {
+        "card_id":514,
+        "disp_id":3267,
+        "type":"classic",
+        "issued":"960910 00:00:00"
+    },
+    {
+        "card_id":741,
+        "disp_id":4832,
+        "type":"classic",
+        "issued":"960911 00:00:00"
+    },
+    {
+        "card_id":882,
+        "disp_id":7195,
+        "type":"classic",
+        "issued":"960911 00:00:00"
+    },
+    {
+        "card_id":12,
+        "disp_id":83,
+        "type":"junior",
+        "issued":"960911 00:00:00"
+    },
+    {
+        "card_id":152,
+        "disp_id":876,
+        "type":"classic",
+        "issued":"960916 00:00:00"
+    },
+    {
+        "card_id":163,
+        "disp_id":984,
+        "type":"classic",
+        "issued":"960918 00:00:00"
+    },
+    {
+        "card_id":708,
+        "disp_id":4568,
+        "type":"junior",
+        "issued":"960924 00:00:00"
+    },
+    {
+        "card_id":1087,
+        "disp_id":10887,
+        "type":"classic",
+        "issued":"961006 00:00:00"
+    },
+    {
+        "card_id":854,
+        "disp_id":6753,
+        "type":"classic",
+        "issued":"961007 00:00:00"
+    },
+    {
+        "card_id":601,
+        "disp_id":3830,
+        "type":"classic",
+        "issued":"961008 00:00:00"
+    },
+    {
+        "card_id":99,
+        "disp_id":548,
+        "type":"gold",
+        "issued":"961009 00:00:00"
+    },
+    {
+        "card_id":547,
+        "disp_id":3477,
+        "type":"classic",
+        "issued":"961011 00:00:00"
+    },
+    {
+        "card_id":40,
+        "disp_id":255,
+        "type":"classic",
+        "issued":"961013 00:00:00"
+    },
+    {
+        "card_id":220,
+        "disp_id":1333,
+        "type":"classic",
+        "issued":"961013 00:00:00"
+    },
+    {
+        "card_id":390,
+        "disp_id":2490,
+        "type":"classic",
+        "issued":"961014 00:00:00"
+    },
+    {
+        "card_id":776,
+        "disp_id":5263,
+        "type":"classic",
+        "issued":"961019 00:00:00"
+    },
+    {
+        "card_id":197,
+        "disp_id":1202,
+        "type":"junior",
+        "issued":"961021 00:00:00"
+    },
+    {
+        "card_id":516,
+        "disp_id":3279,
+        "type":"classic",
+        "issued":"961025 00:00:00"
+    },
+    {
+        "card_id":381,
+        "disp_id":2440,
+        "type":"classic",
+        "issued":"961027 00:00:00"
+    },
+    {
+        "card_id":1010,
+        "disp_id":9413,
+        "type":"classic",
+        "issued":"961027 00:00:00"
+    },
+    {
+        "card_id":813,
+        "disp_id":5873,
+        "type":"junior",
+        "issued":"961028 00:00:00"
+    },
+    {
+        "card_id":272,
+        "disp_id":1754,
+        "type":"junior",
+        "issued":"961028 00:00:00"
+    },
+    {
+        "card_id":772,
+        "disp_id":5243,
+        "type":"classic",
+        "issued":"961030 00:00:00"
+    },
+    {
+        "card_id":528,
+        "disp_id":3356,
+        "type":"classic",
+        "issued":"961031 00:00:00"
+    },
+    {
+        "card_id":1014,
+        "disp_id":9452,
+        "type":"classic",
+        "issued":"961102 00:00:00"
+    },
+    {
+        "card_id":87,
+        "disp_id":493,
+        "type":"classic",
+        "issued":"961102 00:00:00"
+    },
+    {
+        "card_id":88,
+        "disp_id":496,
+        "type":"classic",
+        "issued":"961104 00:00:00"
+    },
+    {
+        "card_id":441,
+        "disp_id":2785,
+        "type":"classic",
+        "issued":"961105 00:00:00"
+    },
+    {
+        "card_id":562,
+        "disp_id":3583,
+        "type":"classic",
+        "issued":"961107 00:00:00"
+    },
+    {
+        "card_id":690,
+        "disp_id":4479,
+        "type":"classic",
+        "issued":"961107 00:00:00"
+    },
+    {
+        "card_id":374,
+        "disp_id":2423,
+        "type":"classic",
+        "issued":"961108 00:00:00"
+    },
+    {
+        "card_id":57,
+        "disp_id":347,
+        "type":"classic",
+        "issued":"961109 00:00:00"
+    },
+    {
+        "card_id":722,
+        "disp_id":4684,
+        "type":"classic",
+        "issued":"961114 00:00:00"
+    },
+    {
+        "card_id":300,
+        "disp_id":1890,
+        "type":"classic",
+        "issued":"961120 00:00:00"
+    },
+    {
+        "card_id":117,
+        "disp_id":649,
+        "type":"junior",
+        "issued":"961123 00:00:00"
+    },
+    {
+        "card_id":541,
+        "disp_id":3427,
+        "type":"junior",
+        "issued":"961126 00:00:00"
+    },
+    {
+        "card_id":294,
+        "disp_id":1861,
+        "type":"classic",
+        "issued":"961204 00:00:00"
+    },
+    {
+        "card_id":10,
+        "disp_id":77,
+        "type":"classic",
+        "issued":"961207 00:00:00"
+    },
+    {
+        "card_id":710,
+        "disp_id":4588,
+        "type":"junior",
+        "issued":"961210 00:00:00"
+    },
+    {
+        "card_id":408,
+        "disp_id":2560,
+        "type":"classic",
+        "issued":"961210 00:00:00"
+    },
+    {
+        "card_id":363,
+        "disp_id":2324,
+        "type":"junior",
+        "issued":"961211 00:00:00"
+    },
+    {
+        "card_id":697,
+        "disp_id":4518,
+        "type":"classic",
+        "issued":"961211 00:00:00"
+    },
+    {
+        "card_id":433,
+        "disp_id":2724,
+        "type":"classic",
+        "issued":"961212 00:00:00"
+    },
+    {
+        "card_id":642,
+        "disp_id":4137,
+        "type":"classic",
+        "issued":"961213 00:00:00"
+    },
+    {
+        "card_id":243,
+        "disp_id":1478,
+        "type":"classic",
+        "issued":"961213 00:00:00"
+    },
+    {
+        "card_id":162,
+        "disp_id":967,
+        "type":"junior",
+        "issued":"961223 00:00:00"
+    },
+    {
+        "card_id":594,
+        "disp_id":3794,
+        "type":"junior",
+        "issued":"961227 00:00:00"
+    },
+    {
+        "card_id":609,
+        "disp_id":3893,
+        "type":"classic",
+        "issued":"961229 00:00:00"
+    },
+    {
+        "card_id":1111,
+        "disp_id":11288,
+        "type":"classic",
+        "issued":"961231 00:00:00"
+    },
+    {
+        "card_id":786,
+        "disp_id":5478,
+        "type":"classic",
+        "issued":"961231 00:00:00"
+    },
+    {
+        "card_id":1118,
+        "disp_id":11393,
+        "type":"classic",
+        "issued":"970102 00:00:00"
+    },
+    {
+        "card_id":175,
+        "disp_id":1040,
+        "type":"classic",
+        "issued":"970103 00:00:00"
+    },
+    {
+        "card_id":565,
+        "disp_id":3601,
+        "type":"gold",
+        "issued":"970106 00:00:00"
+    },
+    {
+        "card_id":714,
+        "disp_id":4638,
+        "type":"classic",
+        "issued":"970109 00:00:00"
+    },
+    {
+        "card_id":137,
+        "disp_id":786,
+        "type":"junior",
+        "issued":"970110 00:00:00"
+    },
+    {
+        "card_id":22,
+        "disp_id":138,
+        "type":"classic",
+        "issued":"970111 00:00:00"
+    },
+    {
+        "card_id":325,
+        "disp_id":2102,
+        "type":"classic",
+        "issued":"970112 00:00:00"
+    },
+    {
+        "card_id":194,
+        "disp_id":1182,
+        "type":"classic",
+        "issued":"970113 00:00:00"
+    },
+    {
+        "card_id":668,
+        "disp_id":4340,
+        "type":"classic",
+        "issued":"970114 00:00:00"
+    },
+    {
+        "card_id":706,
+        "disp_id":4559,
+        "type":"gold",
+        "issued":"970116 00:00:00"
+    },
+    {
+        "card_id":850,
+        "disp_id":6644,
+        "type":"classic",
+        "issued":"970116 00:00:00"
+    },
+    {
+        "card_id":298,
+        "disp_id":1885,
+        "type":"classic",
+        "issued":"970117 00:00:00"
+    },
+    {
+        "card_id":105,
+        "disp_id":590,
+        "type":"classic",
+        "issued":"970117 00:00:00"
+    },
+    {
+        "card_id":1036,
+        "disp_id":9735,
+        "type":"classic",
+        "issued":"970117 00:00:00"
+    },
+    {
+        "card_id":292,
+        "disp_id":1842,
+        "type":"gold",
+        "issued":"970118 00:00:00"
+    },
+    {
+        "card_id":112,
+        "disp_id":626,
+        "type":"junior",
+        "issued":"970119 00:00:00"
+    },
+    {
+        "card_id":678,
+        "disp_id":4405,
+        "type":"gold",
+        "issued":"970120 00:00:00"
+    },
+    {
+        "card_id":1093,
+        "disp_id":11011,
+        "type":"classic",
+        "issued":"970120 00:00:00"
+    },
+    {
+        "card_id":681,
+        "disp_id":4426,
+        "type":"classic",
+        "issued":"970122 00:00:00"
+    },
+    {
+        "card_id":582,
+        "disp_id":3733,
+        "type":"classic",
+        "issued":"970122 00:00:00"
+    },
+    {
+        "card_id":729,
+        "disp_id":4740,
+        "type":"junior",
+        "issued":"970122 00:00:00"
+    },
+    {
+        "card_id":54,
+        "disp_id":334,
+        "type":"classic",
+        "issued":"970124 00:00:00"
+    },
+    {
+        "card_id":258,
+        "disp_id":1607,
+        "type":"classic",
+        "issued":"970126 00:00:00"
+    },
+    {
+        "card_id":534,
+        "disp_id":3387,
+        "type":"classic",
+        "issued":"970129 00:00:00"
+    },
+    {
+        "card_id":667,
+        "disp_id":4333,
+        "type":"classic",
+        "issued":"970131 00:00:00"
+    },
+    {
+        "card_id":195,
+        "disp_id":1194,
+        "type":"classic",
+        "issued":"970203 00:00:00"
+    },
+    {
+        "card_id":199,
+        "disp_id":1213,
+        "type":"classic",
+        "issued":"970207 00:00:00"
+    },
+    {
+        "card_id":490,
+        "disp_id":3136,
+        "type":"gold",
+        "issued":"970207 00:00:00"
+    },
+    {
+        "card_id":347,
+        "disp_id":2184,
+        "type":"classic",
+        "issued":"970211 00:00:00"
+    },
+    {
+        "card_id":210,
+        "disp_id":1253,
+        "type":"classic",
+        "issued":"970216 00:00:00"
+    },
+    {
+        "card_id":293,
+        "disp_id":1850,
+        "type":"classic",
+        "issued":"970217 00:00:00"
+    },
+    {
+        "card_id":189,
+        "disp_id":1157,
+        "type":"classic",
+        "issued":"970219 00:00:00"
+    },
+    {
+        "card_id":324,
+        "disp_id":2074,
+        "type":"classic",
+        "issued":"970219 00:00:00"
+    },
+    {
+        "card_id":578,
+        "disp_id":3689,
+        "type":"junior",
+        "issued":"970221 00:00:00"
+    },
+    {
+        "card_id":266,
+        "disp_id":1690,
+        "type":"classic",
+        "issued":"970304 00:00:00"
+    },
+    {
+        "card_id":568,
+        "disp_id":3615,
+        "type":"classic",
+        "issued":"970305 00:00:00"
+    },
+    {
+        "card_id":171,
+        "disp_id":1027,
+        "type":"classic",
+        "issued":"970305 00:00:00"
+    },
+    {
+        "card_id":679,
+        "disp_id":4416,
+        "type":"classic",
+        "issued":"970306 00:00:00"
+    },
+    {
+        "card_id":841,
+        "disp_id":6468,
+        "type":"classic",
+        "issued":"970306 00:00:00"
+    },
+    {
+        "card_id":513,
+        "disp_id":3260,
+        "type":"classic",
+        "issued":"970315 00:00:00"
+    },
+    {
+        "card_id":647,
+        "disp_id":4171,
+        "type":"junior",
+        "issued":"970321 00:00:00"
+    },
+    {
+        "card_id":665,
+        "disp_id":4318,
+        "type":"classic",
+        "issued":"970324 00:00:00"
+    },
+    {
+        "card_id":400,
+        "disp_id":2529,
+        "type":"classic",
+        "issued":"970406 00:00:00"
+    },
+    {
+        "card_id":617,
+        "disp_id":3944,
+        "type":"gold",
+        "issued":"970409 00:00:00"
+    },
+    {
+        "card_id":709,
+        "disp_id":4587,
+        "type":"junior",
+        "issued":"970411 00:00:00"
+    },
+    {
+        "card_id":387,
+        "disp_id":2481,
+        "type":"classic",
+        "issued":"970418 00:00:00"
+    },
+    {
+        "card_id":226,
+        "disp_id":1378,
+        "type":"classic",
+        "issued":"970418 00:00:00"
+    },
+    {
+        "card_id":350,
+        "disp_id":2226,
+        "type":"classic",
+        "issued":"970420 00:00:00"
+    },
+    {
+        "card_id":539,
+        "disp_id":3415,
+        "type":"classic",
+        "issued":"970423 00:00:00"
+    },
+    {
+        "card_id":583,
+        "disp_id":3735,
+        "type":"classic",
+        "issued":"970424 00:00:00"
+    },
+    {
+        "card_id":576,
+        "disp_id":3671,
+        "type":"classic",
+        "issued":"970430 00:00:00"
+    },
+    {
+        "card_id":232,
+        "disp_id":1396,
+        "type":"classic",
+        "issued":"970501 00:00:00"
+    },
+    {
+        "card_id":730,
+        "disp_id":4749,
+        "type":"classic",
+        "issued":"970502 00:00:00"
+    },
+    {
+        "card_id":616,
+        "disp_id":3943,
+        "type":"classic",
+        "issued":"970505 00:00:00"
+    },
+    {
+        "card_id":564,
+        "disp_id":3590,
+        "type":"classic",
+        "issued":"970506 00:00:00"
+    },
+    {
+        "card_id":82,
+        "disp_id":474,
+        "type":"classic",
+        "issued":"970507 00:00:00"
+    },
+    {
+        "card_id":1173,
+        "disp_id":12442,
+        "type":"classic",
+        "issued":"970508 00:00:00"
+    },
+    {
+        "card_id":426,
+        "disp_id":2686,
+        "type":"classic",
+        "issued":"970509 00:00:00"
+    },
+    {
+        "card_id":791,
+        "disp_id":5521,
+        "type":"classic",
+        "issued":"970512 00:00:00"
+    },
+    {
+        "card_id":572,
+        "disp_id":3636,
+        "type":"junior",
+        "issued":"970516 00:00:00"
+    },
+    {
+        "card_id":375,
+        "disp_id":2425,
+        "type":"junior",
+        "issued":"970517 00:00:00"
+    },
+    {
+        "card_id":69,
+        "disp_id":438,
+        "type":"classic",
+        "issued":"970517 00:00:00"
+    },
+    {
+        "card_id":607,
+        "disp_id":3885,
+        "type":"classic",
+        "issued":"970517 00:00:00"
+    },
+    {
+        "card_id":155,
+        "disp_id":900,
+        "type":"junior",
+        "issued":"970517 00:00:00"
+    },
+    {
+        "card_id":275,
+        "disp_id":1762,
+        "type":"classic",
+        "issued":"970520 00:00:00"
+    },
+    {
+        "card_id":847,
+        "disp_id":6610,
+        "type":"classic",
+        "issued":"970520 00:00:00"
+    },
+    {
+        "card_id":399,
+        "disp_id":2527,
+        "type":"classic",
+        "issued":"970522 00:00:00"
+    },
+    {
+        "card_id":305,
+        "disp_id":1914,
+        "type":"classic",
+        "issued":"970523 00:00:00"
+    },
+    {
+        "card_id":430,
+        "disp_id":2713,
+        "type":"classic",
+        "issued":"970526 00:00:00"
+    },
+    {
+        "card_id":349,
+        "disp_id":2214,
+        "type":"classic",
+        "issued":"970526 00:00:00"
+    },
+    {
+        "card_id":256,
+        "disp_id":1583,
+        "type":"classic",
+        "issued":"970526 00:00:00"
+    },
+    {
+        "card_id":50,
+        "disp_id":309,
+        "type":"classic",
+        "issued":"970528 00:00:00"
+    },
+    {
+        "card_id":939,
+        "disp_id":8217,
+        "type":"junior",
+        "issued":"970529 00:00:00"
+    },
+    {
+        "card_id":110,
+        "disp_id":608,
+        "type":"classic",
+        "issued":"970531 00:00:00"
+    },
+    {
+        "card_id":184,
+        "disp_id":1089,
+        "type":"gold",
+        "issued":"970603 00:00:00"
+    },
+    {
+        "card_id":90,
+        "disp_id":503,
+        "type":"classic",
+        "issued":"970604 00:00:00"
+    },
+    {
+        "card_id":597,
+        "disp_id":3813,
+        "type":"junior",
+        "issued":"970606 00:00:00"
+    },
+    {
+        "card_id":471,
+        "disp_id":3037,
+        "type":"classic",
+        "issued":"970609 00:00:00"
+    },
+    {
+        "card_id":494,
+        "disp_id":3173,
+        "type":"classic",
+        "issued":"970610 00:00:00"
+    },
+    {
+        "card_id":211,
+        "disp_id":1271,
+        "type":"classic",
+        "issued":"970610 00:00:00"
+    },
+    {
+        "card_id":353,
+        "disp_id":2259,
+        "type":"classic",
+        "issued":"970611 00:00:00"
+    },
+    {
+        "card_id":213,
+        "disp_id":1289,
+        "type":"gold",
+        "issued":"970611 00:00:00"
+    },
+    {
+        "card_id":1009,
+        "disp_id":9409,
+        "type":"gold",
+        "issued":"970614 00:00:00"
+    },
+    {
+        "card_id":297,
+        "disp_id":1883,
+        "type":"classic",
+        "issued":"970615 00:00:00"
+    },
+    {
+        "card_id":801,
+        "disp_id":5684,
+        "type":"classic",
+        "issued":"970615 00:00:00"
+    },
+    {
+        "card_id":748,
+        "disp_id":4923,
+        "type":"classic",
+        "issued":"970616 00:00:00"
+    },
+    {
+        "card_id":133,
+        "disp_id":742,
+        "type":"classic",
+        "issued":"970616 00:00:00"
+    },
+    {
+        "card_id":316,
+        "disp_id":2013,
+        "type":"classic",
+        "issued":"970617 00:00:00"
+    },
+    {
+        "card_id":145,
+        "disp_id":819,
+        "type":"classic",
+        "issued":"970617 00:00:00"
+    },
+    {
+        "card_id":270,
+        "disp_id":1736,
+        "type":"junior",
+        "issued":"970617 00:00:00"
+    },
+    {
+        "card_id":1178,
+        "disp_id":12542,
+        "type":"classic",
+        "issued":"970619 00:00:00"
+    },
+    {
+        "card_id":222,
+        "disp_id":1345,
+        "type":"classic",
+        "issued":"970619 00:00:00"
+    },
+    {
+        "card_id":241,
+        "disp_id":1461,
+        "type":"classic",
+        "issued":"970620 00:00:00"
+    },
+    {
+        "card_id":280,
+        "disp_id":1793,
+        "type":"classic",
+        "issued":"970622 00:00:00"
+    },
+    {
+        "card_id":675,
+        "disp_id":4376,
+        "type":"classic",
+        "issued":"970623 00:00:00"
+    },
+    {
+        "card_id":108,
+        "disp_id":597,
+        "type":"classic",
+        "issued":"970625 00:00:00"
+    },
+    {
+        "card_id":1196,
+        "disp_id":12805,
+        "type":"classic",
+        "issued":"970627 00:00:00"
+    },
+    {
+        "card_id":287,
+        "disp_id":1819,
+        "type":"junior",
+        "issued":"970628 00:00:00"
+    },
+    {
+        "card_id":443,
+        "disp_id":2808,
+        "type":"classic",
+        "issued":"970629 00:00:00"
+    },
+    {
+        "card_id":1138,
+        "disp_id":11825,
+        "type":"classic",
+        "issued":"970629 00:00:00"
+    },
+    {
+        "card_id":733,
+        "disp_id":4764,
+        "type":"junior",
+        "issued":"970630 00:00:00"
+    },
+    {
+        "card_id":311,
+        "disp_id":1954,
+        "type":"classic",
+        "issued":"970701 00:00:00"
+    },
+    {
+        "card_id":120,
+        "disp_id":662,
+        "type":"classic",
+        "issued":"970703 00:00:00"
+    },
+    {
+        "card_id":122,
+        "disp_id":667,
+        "type":"junior",
+        "issued":"970703 00:00:00"
+    },
+    {
+        "card_id":476,
+        "disp_id":3079,
+        "type":"classic",
+        "issued":"970706 00:00:00"
+    },
+    {
+        "card_id":781,
+        "disp_id":5366,
+        "type":"classic",
+        "issued":"970707 00:00:00"
+    },
+    {
+        "card_id":588,
+        "disp_id":3765,
+        "type":"classic",
+        "issued":"970708 00:00:00"
+    },
+    {
+        "card_id":403,
+        "disp_id":2538,
+        "type":"junior",
+        "issued":"970712 00:00:00"
+    },
+    {
+        "card_id":139,
+        "disp_id":797,
+        "type":"classic",
+        "issued":"970714 00:00:00"
+    },
+    {
+        "card_id":553,
+        "disp_id":3522,
+        "type":"classic",
+        "issued":"970714 00:00:00"
+    },
+    {
+        "card_id":625,
+        "disp_id":3987,
+        "type":"classic",
+        "issued":"970717 00:00:00"
+    },
+    {
+        "card_id":413,
+        "disp_id":2592,
+        "type":"junior",
+        "issued":"970720 00:00:00"
+    },
+    {
+        "card_id":591,
+        "disp_id":3779,
+        "type":"classic",
+        "issued":"970723 00:00:00"
+    },
+    {
+        "card_id":694,
+        "disp_id":4504,
+        "type":"classic",
+        "issued":"970724 00:00:00"
+    },
+    {
+        "card_id":512,
+        "disp_id":3259,
+        "type":"classic",
+        "issued":"970724 00:00:00"
+    },
+    {
+        "card_id":1095,
+        "disp_id":11023,
+        "type":"gold",
+        "issued":"970728 00:00:00"
+    },
+    {
+        "card_id":1059,
+        "disp_id":10235,
+        "type":"classic",
+        "issued":"970729 00:00:00"
+    },
+    {
+        "card_id":75,
+        "disp_id":457,
+        "type":"classic",
+        "issued":"970729 00:00:00"
+    },
+    {
+        "card_id":383,
+        "disp_id":2469,
+        "type":"classic",
+        "issued":"970730 00:00:00"
+    },
+    {
+        "card_id":115,
+        "disp_id":638,
+        "type":"classic",
+        "issued":"970730 00:00:00"
+    },
+    {
+        "card_id":884,
+        "disp_id":7286,
+        "type":"gold",
+        "issued":"970731 00:00:00"
+    },
+    {
+        "card_id":454,
+        "disp_id":2921,
+        "type":"classic",
+        "issued":"970801 00:00:00"
+    },
+    {
+        "card_id":688,
+        "disp_id":4472,
+        "type":"classic",
+        "issued":"970801 00:00:00"
+    },
+    {
+        "card_id":936,
+        "disp_id":8030,
+        "type":"classic",
+        "issued":"970802 00:00:00"
+    },
+    {
+        "card_id":663,
+        "disp_id":4295,
+        "type":"classic",
+        "issued":"970806 00:00:00"
+    },
+    {
+        "card_id":637,
+        "disp_id":4094,
+        "type":"junior",
+        "issued":"970806 00:00:00"
+    },
+    {
+        "card_id":511,
+        "disp_id":3257,
+        "type":"junior",
+        "issued":"970806 00:00:00"
+    },
+    {
+        "card_id":1220,
+        "disp_id":13160,
+        "type":"classic",
+        "issued":"970808 00:00:00"
+    },
+    {
+        "card_id":628,
+        "disp_id":4007,
+        "type":"classic",
+        "issued":"970811 00:00:00"
+    },
+    {
+        "card_id":718,
+        "disp_id":4660,
+        "type":"classic",
+        "issued":"970812 00:00:00"
+    },
+    {
+        "card_id":238,
+        "disp_id":1452,
+        "type":"gold",
+        "issued":"970817 00:00:00"
+    },
+    {
+        "card_id":546,
+        "disp_id":3465,
+        "type":"gold",
+        "issued":"970819 00:00:00"
+    },
+    {
+        "card_id":660,
+        "disp_id":4265,
+        "type":"junior",
+        "issued":"970819 00:00:00"
+    },
+    {
+        "card_id":491,
+        "disp_id":3151,
+        "type":"classic",
+        "issued":"970821 00:00:00"
+    },
+    {
+        "card_id":140,
+        "disp_id":798,
+        "type":"classic",
+        "issued":"970822 00:00:00"
+    },
+    {
+        "card_id":502,
+        "disp_id":3201,
+        "type":"classic",
+        "issued":"970822 00:00:00"
+    },
+    {
+        "card_id":598,
+        "disp_id":3821,
+        "type":"classic",
+        "issued":"970823 00:00:00"
+    },
+    {
+        "card_id":355,
+        "disp_id":2267,
+        "type":"classic",
+        "issued":"970828 00:00:00"
+    },
+    {
+        "card_id":43,
+        "disp_id":267,
+        "type":"classic",
+        "issued":"970829 00:00:00"
+    },
+    {
+        "card_id":610,
+        "disp_id":3894,
+        "type":"classic",
+        "issued":"970829 00:00:00"
+    },
+    {
+        "card_id":182,
+        "disp_id":1067,
+        "type":"gold",
+        "issued":"970831 00:00:00"
+    },
+    {
+        "card_id":41,
+        "disp_id":256,
+        "type":"classic",
+        "issued":"970831 00:00:00"
+    },
+    {
+        "card_id":91,
+        "disp_id":504,
+        "type":"junior",
+        "issued":"970901 00:00:00"
+    },
+    {
+        "card_id":252,
+        "disp_id":1529,
+        "type":"classic",
+        "issued":"970902 00:00:00"
+    },
+    {
+        "card_id":495,
+        "disp_id":3181,
+        "type":"classic",
+        "issued":"970902 00:00:00"
+    },
+    {
+        "card_id":259,
+        "disp_id":1610,
+        "type":"classic",
+        "issued":"970905 00:00:00"
+    },
+    {
+        "card_id":187,
+        "disp_id":1140,
+        "type":"classic",
+        "issued":"970907 00:00:00"
+    },
+    {
+        "card_id":185,
+        "disp_id":1098,
+        "type":"classic",
+        "issued":"970907 00:00:00"
+    },
+    {
+        "card_id":1025,
+        "disp_id":9625,
+        "type":"classic",
+        "issued":"970908 00:00:00"
+    },
+    {
+        "card_id":19,
+        "disp_id":130,
+        "type":"classic",
+        "issued":"970909 00:00:00"
+    },
+    {
+        "card_id":431,
+        "disp_id":2715,
+        "type":"gold",
+        "issued":"970912 00:00:00"
+    },
+    {
+        "card_id":356,
+        "disp_id":2268,
+        "type":"classic",
+        "issued":"970913 00:00:00"
+    },
+    {
+        "card_id":767,
+        "disp_id":5204,
+        "type":"classic",
+        "issued":"970914 00:00:00"
+    },
+    {
+        "card_id":537,
+        "disp_id":3405,
+        "type":"classic",
+        "issued":"970915 00:00:00"
+    },
+    {
+        "card_id":703,
+        "disp_id":4546,
+        "type":"classic",
+        "issued":"970917 00:00:00"
+    },
+    {
+        "card_id":671,
+        "disp_id":4345,
+        "type":"classic",
+        "issued":"970917 00:00:00"
+    },
+    {
+        "card_id":896,
+        "disp_id":7567,
+        "type":"classic",
+        "issued":"970918 00:00:00"
+    },
+    {
+        "card_id":343,
+        "disp_id":2164,
+        "type":"classic",
+        "issued":"970921 00:00:00"
+    },
+    {
+        "card_id":279,
+        "disp_id":1791,
+        "type":"classic",
+        "issued":"970921 00:00:00"
+    },
+    {
+        "card_id":622,
+        "disp_id":3981,
+        "type":"junior",
+        "issued":"970922 00:00:00"
+    },
+    {
+        "card_id":612,
+        "disp_id":3906,
+        "type":"classic",
+        "issued":"970922 00:00:00"
+    },
+    {
+        "card_id":206,
+        "disp_id":1243,
+        "type":"classic",
+        "issued":"970922 00:00:00"
+    },
+    {
+        "card_id":190,
+        "disp_id":1165,
+        "type":"classic",
+        "issued":"970923 00:00:00"
+    },
+    {
+        "card_id":1203,
+        "disp_id":12893,
+        "type":"classic",
+        "issued":"970926 00:00:00"
+    },
+    {
+        "card_id":234,
+        "disp_id":1424,
+        "type":"classic",
+        "issued":"970929 00:00:00"
+    },
+    {
+        "card_id":30,
+        "disp_id":202,
+        "type":"classic",
+        "issued":"971001 00:00:00"
+    },
+    {
+        "card_id":327,
+        "disp_id":2117,
+        "type":"classic",
+        "issued":"971003 00:00:00"
+    },
+    {
+        "card_id":49,
+        "disp_id":305,
+        "type":"classic",
+        "issued":"971003 00:00:00"
+    },
+    {
+        "card_id":1115,
+        "disp_id":11375,
+        "type":"junior",
+        "issued":"971003 00:00:00"
+    },
+    {
+        "card_id":698,
+        "disp_id":4522,
+        "type":"gold",
+        "issued":"971007 00:00:00"
+    },
+    {
+        "card_id":874,
+        "disp_id":7127,
+        "type":"gold",
+        "issued":"971007 00:00:00"
+    },
+    {
+        "card_id":247,
+        "disp_id":1500,
+        "type":"junior",
+        "issued":"971008 00:00:00"
+    },
+    {
+        "card_id":656,
+        "disp_id":4235,
+        "type":"classic",
+        "issued":"971008 00:00:00"
+    },
+    {
+        "card_id":436,
+        "disp_id":2759,
+        "type":"classic",
+        "issued":"971009 00:00:00"
+    },
+    {
+        "card_id":124,
+        "disp_id":688,
+        "type":"classic",
+        "issued":"971010 00:00:00"
+    },
+    {
+        "card_id":633,
+        "disp_id":4078,
+        "type":"classic",
+        "issued":"971012 00:00:00"
+    },
+    {
+        "card_id":428,
+        "disp_id":2698,
+        "type":"classic",
+        "issued":"971013 00:00:00"
+    },
+    {
+        "card_id":638,
+        "disp_id":4100,
+        "type":"gold",
+        "issued":"971014 00:00:00"
+    },
+    {
+        "card_id":153,
+        "disp_id":886,
+        "type":"gold",
+        "issued":"971019 00:00:00"
+    },
+    {
+        "card_id":596,
+        "disp_id":3811,
+        "type":"classic",
+        "issued":"971019 00:00:00"
+    },
+    {
+        "card_id":664,
+        "disp_id":4316,
+        "type":"classic",
+        "issued":"971022 00:00:00"
+    },
+    {
+        "card_id":251,
+        "disp_id":1525,
+        "type":"classic",
+        "issued":"971023 00:00:00"
+    },
+    {
+        "card_id":552,
+        "disp_id":3519,
+        "type":"classic",
+        "issued":"971025 00:00:00"
+    },
+    {
+        "card_id":9,
+        "disp_id":76,
+        "type":"classic",
+        "issued":"971025 00:00:00"
+    },
+    {
+        "card_id":11,
+        "disp_id":79,
+        "type":"gold",
+        "issued":"971025 00:00:00"
+    },
+    {
+        "card_id":650,
+        "disp_id":4194,
+        "type":"classic",
+        "issued":"971026 00:00:00"
+    },
+    {
+        "card_id":59,
+        "disp_id":365,
+        "type":"classic",
+        "issued":"971027 00:00:00"
+    },
+    {
+        "card_id":1016,
+        "disp_id":9525,
+        "type":"classic",
+        "issued":"971028 00:00:00"
+    },
+    {
+        "card_id":359,
+        "disp_id":2299,
+        "type":"classic",
+        "issued":"971029 00:00:00"
+    },
+    {
+        "card_id":438,
+        "disp_id":2768,
+        "type":"classic",
+        "issued":"971030 00:00:00"
+    },
+    {
+        "card_id":94,
+        "disp_id":513,
+        "type":"classic",
+        "issued":"971106 00:00:00"
+    },
+    {
+        "card_id":1056,
+        "disp_id":10220,
+        "type":"classic",
+        "issued":"971106 00:00:00"
+    },
+    {
+        "card_id":273,
+        "disp_id":1758,
+        "type":"classic",
+        "issued":"971107 00:00:00"
+    },
+    {
+        "card_id":947,
+        "disp_id":8366,
+        "type":"classic",
+        "issued":"971108 00:00:00"
+    },
+    {
+        "card_id":93,
+        "disp_id":510,
+        "type":"classic",
+        "issued":"971109 00:00:00"
+    },
+    {
+        "card_id":762,
+        "disp_id":5132,
+        "type":"classic",
+        "issued":"971110 00:00:00"
+    },
+    {
+        "card_id":254,
+        "disp_id":1578,
+        "type":"classic",
+        "issued":"971111 00:00:00"
+    },
+    {
+        "card_id":611,
+        "disp_id":3896,
+        "type":"classic",
+        "issued":"971113 00:00:00"
+    },
+    {
+        "card_id":648,
+        "disp_id":4188,
+        "type":"classic",
+        "issued":"971118 00:00:00"
+    },
+    {
+        "card_id":373,
+        "disp_id":2401,
+        "type":"classic",
+        "issued":"971118 00:00:00"
+    },
+    {
+        "card_id":579,
+        "disp_id":3699,
+        "type":"classic",
+        "issued":"971118 00:00:00"
+    },
+    {
+        "card_id":555,
+        "disp_id":3544,
+        "type":"classic",
+        "issued":"971119 00:00:00"
+    },
+    {
+        "card_id":329,
+        "disp_id":2122,
+        "type":"gold",
+        "issued":"971119 00:00:00"
+    },
+    {
+        "card_id":707,
+        "disp_id":4560,
+        "type":"classic",
+        "issued":"971121 00:00:00"
+    },
+    {
+        "card_id":51,
+        "disp_id":321,
+        "type":"classic",
+        "issued":"971121 00:00:00"
+    },
+    {
+        "card_id":382,
+        "disp_id":2445,
+        "type":"gold",
+        "issued":"971122 00:00:00"
+    },
+    {
+        "card_id":472,
+        "disp_id":3056,
+        "type":"classic",
+        "issued":"971124 00:00:00"
+    },
+    {
+        "card_id":237,
+        "disp_id":1445,
+        "type":"classic",
+        "issued":"971125 00:00:00"
+    },
+    {
+        "card_id":1234,
+        "disp_id":13386,
+        "type":"classic",
+        "issued":"971128 00:00:00"
+    },
+    {
+        "card_id":86,
+        "disp_id":490,
+        "type":"classic",
+        "issued":"971128 00:00:00"
+    },
+    {
+        "card_id":540,
+        "disp_id":3425,
+        "type":"classic",
+        "issued":"971129 00:00:00"
+    },
+    {
+        "card_id":493,
+        "disp_id":3167,
+        "type":"classic",
+        "issued":"971130 00:00:00"
+    },
+    {
+        "card_id":532,
+        "disp_id":3382,
+        "type":"classic",
+        "issued":"971130 00:00:00"
+    },
+    {
+        "card_id":590,
+        "disp_id":3769,
+        "type":"classic",
+        "issued":"971202 00:00:00"
+    },
+    {
+        "card_id":942,
+        "disp_id":8295,
+        "type":"classic",
+        "issued":"971202 00:00:00"
+    },
+    {
+        "card_id":33,
+        "disp_id":221,
+        "type":"junior",
+        "issued":"971203 00:00:00"
+    },
+    {
+        "card_id":739,
+        "disp_id":4821,
+        "type":"classic",
+        "issued":"971203 00:00:00"
+    },
+    {
+        "card_id":45,
+        "disp_id":272,
+        "type":"classic",
+        "issued":"971205 00:00:00"
+    },
+    {
+        "card_id":25,
+        "disp_id":158,
+        "type":"classic",
+        "issued":"971206 00:00:00"
+    },
+    {
+        "card_id":200,
+        "disp_id":1220,
+        "type":"gold",
+        "issued":"971209 00:00:00"
+    },
+    {
+        "card_id":268,
+        "disp_id":1707,
+        "type":"gold",
+        "issued":"971211 00:00:00"
+    },
+    {
+        "card_id":507,
+        "disp_id":3245,
+        "type":"classic",
+        "issued":"971211 00:00:00"
+    },
+    {
+        "card_id":569,
+        "disp_id":3616,
+        "type":"classic",
+        "issued":"971212 00:00:00"
+    },
+    {
+        "card_id":282,
+        "disp_id":1799,
+        "type":"gold",
+        "issued":"971213 00:00:00"
+    },
+    {
+        "card_id":536,
+        "disp_id":3404,
+        "type":"classic",
+        "issued":"971213 00:00:00"
+    },
+    {
+        "card_id":1022,
+        "disp_id":9606,
+        "type":"classic",
+        "issued":"971213 00:00:00"
+    },
+    {
+        "card_id":1105,
+        "disp_id":11237,
+        "type":"classic",
+        "issued":"971213 00:00:00"
+    },
+    {
+        "card_id":326,
+        "disp_id":2104,
+        "type":"classic",
+        "issued":"971214 00:00:00"
+    },
+    {
+        "card_id":380,
+        "disp_id":2434,
+        "type":"classic",
+        "issued":"971215 00:00:00"
+    },
+    {
+        "card_id":723,
+        "disp_id":4699,
+        "type":"classic",
+        "issued":"971215 00:00:00"
+    },
+    {
+        "card_id":81,
+        "disp_id":473,
+        "type":"classic",
+        "issued":"971217 00:00:00"
+    },
+    {
+        "card_id":521,
+        "disp_id":3310,
+        "type":"classic",
+        "issued":"971217 00:00:00"
+    },
+    {
+        "card_id":608,
+        "disp_id":3890,
+        "type":"classic",
+        "issued":"971217 00:00:00"
+    },
+    {
+        "card_id":589,
+        "disp_id":3766,
+        "type":"junior",
+        "issued":"971220 00:00:00"
+    },
+    {
+        "card_id":281,
+        "disp_id":1795,
+        "type":"classic",
+        "issued":"971222 00:00:00"
+    },
+    {
+        "card_id":891,
+        "disp_id":7434,
+        "type":"classic",
+        "issued":"971223 00:00:00"
+    },
+    {
+        "card_id":774,
+        "disp_id":5249,
+        "type":"classic",
+        "issued":"971225 00:00:00"
+    },
+    {
+        "card_id":566,
+        "disp_id":3606,
+        "type":"classic",
+        "issued":"971225 00:00:00"
+    },
+    {
+        "card_id":575,
+        "disp_id":3667,
+        "type":"gold",
+        "issued":"971225 00:00:00"
+    },
+    {
+        "card_id":154,
+        "disp_id":887,
+        "type":"classic",
+        "issued":"971228 00:00:00"
+    },
+    {
+        "card_id":130,
+        "disp_id":722,
+        "type":"classic",
+        "issued":"971229 00:00:00"
+    },
+    {
+        "card_id":434,
+        "disp_id":2739,
+        "type":"classic",
+        "issued":"971230 00:00:00"
+    },
+    {
+        "card_id":83,
+        "disp_id":483,
+        "type":"classic",
+        "issued":"980105 00:00:00"
+    },
+    {
+        "card_id":593,
+        "disp_id":3787,
+        "type":"junior",
+        "issued":"980106 00:00:00"
+    },
+    {
+        "card_id":481,
+        "disp_id":3102,
+        "type":"junior",
+        "issued":"980106 00:00:00"
+    },
+    {
+        "card_id":304,
+        "disp_id":1913,
+        "type":"classic",
+        "issued":"980106 00:00:00"
+    },
+    {
+        "card_id":149,
+        "disp_id":858,
+        "type":"classic",
+        "issued":"980107 00:00:00"
+    },
+    {
+        "card_id":659,
+        "disp_id":4258,
+        "type":"classic",
+        "issued":"980108 00:00:00"
+    },
+    {
+        "card_id":517,
+        "disp_id":3291,
+        "type":"classic",
+        "issued":"980109 00:00:00"
+    },
+    {
+        "card_id":368,
+        "disp_id":2361,
+        "type":"classic",
+        "issued":"980110 00:00:00"
+    },
+    {
+        "card_id":482,
+        "disp_id":3104,
+        "type":"junior",
+        "issued":"980113 00:00:00"
+    },
+    {
+        "card_id":689,
+        "disp_id":4473,
+        "type":"classic",
+        "issued":"980115 00:00:00"
+    },
+    {
+        "card_id":557,
+        "disp_id":3567,
+        "type":"classic",
+        "issued":"980117 00:00:00"
+    },
+    {
+        "card_id":897,
+        "disp_id":7576,
+        "type":"classic",
+        "issued":"980118 00:00:00"
+    },
+    {
+        "card_id":803,
+        "disp_id":5727,
+        "type":"classic",
+        "issued":"980119 00:00:00"
+    },
+    {
+        "card_id":401,
+        "disp_id":2532,
+        "type":"classic",
+        "issued":"980119 00:00:00"
+    },
+    {
+        "card_id":760,
+        "disp_id":5126,
+        "type":"classic",
+        "issued":"980119 00:00:00"
+    },
+    {
+        "card_id":274,
+        "disp_id":1759,
+        "type":"classic",
+        "issued":"980121 00:00:00"
+    },
+    {
+        "card_id":28,
+        "disp_id":174,
+        "type":"junior",
+        "issued":"980122 00:00:00"
+    },
+    {
+        "card_id":904,
+        "disp_id":7672,
+        "type":"classic",
+        "issued":"980122 00:00:00"
+    },
+    {
+        "card_id":474,
+        "disp_id":3066,
+        "type":"junior",
+        "issued":"980124 00:00:00"
+    },
+    {
+        "card_id":214,
+        "disp_id":1292,
+        "type":"classic",
+        "issued":"980124 00:00:00"
+    },
+    {
+        "card_id":55,
+        "disp_id":335,
+        "type":"classic",
+        "issued":"980125 00:00:00"
+    },
+    {
+        "card_id":340,
+        "disp_id":2155,
+        "type":"classic",
+        "issued":"980125 00:00:00"
+    },
+    {
+        "card_id":724,
+        "disp_id":4701,
+        "type":"gold",
+        "issued":"980127 00:00:00"
+    },
+    {
+        "card_id":67,
+        "disp_id":429,
+        "type":"junior",
+        "issued":"980128 00:00:00"
+    },
+    {
+        "card_id":236,
+        "disp_id":1440,
+        "type":"junior",
+        "issued":"980129 00:00:00"
+    },
+    {
+        "card_id":68,
+        "disp_id":434,
+        "type":"classic",
+        "issued":"980131 00:00:00"
+    },
+    {
+        "card_id":348,
+        "disp_id":2203,
+        "type":"classic",
+        "issued":"980202 00:00:00"
+    },
+    {
+        "card_id":65,
+        "disp_id":414,
+        "type":"classic",
+        "issued":"980202 00:00:00"
+    },
+    {
+        "card_id":1239,
+        "disp_id":13442,
+        "type":"junior",
+        "issued":"980202 00:00:00"
+    },
+    {
+        "card_id":165,
+        "disp_id":996,
+        "type":"junior",
+        "issued":"980204 00:00:00"
+    },
+    {
+        "card_id":249,
+        "disp_id":1517,
+        "type":"classic",
+        "issued":"980206 00:00:00"
+    },
+    {
+        "card_id":246,
+        "disp_id":1492,
+        "type":"classic",
+        "issued":"980208 00:00:00"
+    },
+    {
+        "card_id":720,
+        "disp_id":4674,
+        "type":"junior",
+        "issued":"980209 00:00:00"
+    },
+    {
+        "card_id":518,
+        "disp_id":3292,
+        "type":"gold",
+        "issued":"980210 00:00:00"
+    },
+    {
+        "card_id":459,
+        "disp_id":2958,
+        "type":"gold",
+        "issued":"980211 00:00:00"
+    },
+    {
+        "card_id":655,
+        "disp_id":4231,
+        "type":"classic",
+        "issued":"980213 00:00:00"
+    },
+    {
+        "card_id":624,
+        "disp_id":3985,
+        "type":"junior",
+        "issued":"980213 00:00:00"
+    },
+    {
+        "card_id":398,
+        "disp_id":2522,
+        "type":"classic",
+        "issued":"980214 00:00:00"
+    },
+    {
+        "card_id":796,
+        "disp_id":5579,
+        "type":"classic",
+        "issued":"980220 00:00:00"
+    },
+    {
+        "card_id":100,
+        "disp_id":562,
+        "type":"gold",
+        "issued":"980221 00:00:00"
+    },
+    {
+        "card_id":574,
+        "disp_id":3640,
+        "type":"junior",
+        "issued":"980223 00:00:00"
+    },
+    {
+        "card_id":360,
+        "disp_id":2308,
+        "type":"classic",
+        "issued":"980224 00:00:00"
+    },
+    {
+        "card_id":391,
+        "disp_id":2493,
+        "type":"classic",
+        "issued":"980224 00:00:00"
+    },
+    {
+        "card_id":283,
+        "disp_id":1800,
+        "type":"classic",
+        "issued":"980225 00:00:00"
+    },
+    {
+        "card_id":726,
+        "disp_id":4721,
+        "type":"classic",
+        "issued":"980226 00:00:00"
+    },
+    {
+        "card_id":132,
+        "disp_id":731,
+        "type":"junior",
+        "issued":"980226 00:00:00"
+    },
+    {
+        "card_id":463,
+        "disp_id":2982,
+        "type":"classic",
+        "issued":"980226 00:00:00"
+    },
+    {
+        "card_id":21,
+        "disp_id":132,
+        "type":"classic",
+        "issued":"980226 00:00:00"
+    },
+    {
+        "card_id":529,
+        "disp_id":3357,
+        "type":"classic",
+        "issued":"980227 00:00:00"
+    },
+    {
+        "card_id":946,
+        "disp_id":8359,
+        "type":"junior",
+        "issued":"980228 00:00:00"
+    },
+    {
+        "card_id":419,
+        "disp_id":2626,
+        "type":"classic",
+        "issued":"980228 00:00:00"
+    },
+    {
+        "card_id":248,
+        "disp_id":1512,
+        "type":"classic",
+        "issued":"980301 00:00:00"
+    },
+    {
+        "card_id":215,
+        "disp_id":1296,
+        "type":"classic",
+        "issued":"980302 00:00:00"
+    },
+    {
+        "card_id":225,
+        "disp_id":1359,
+        "type":"classic",
+        "issued":"980303 00:00:00"
+    },
+    {
+        "card_id":643,
+        "disp_id":4157,
+        "type":"classic",
+        "issued":"980304 00:00:00"
+    },
+    {
+        "card_id":844,
+        "disp_id":6567,
+        "type":"junior",
+        "issued":"980304 00:00:00"
+    },
+    {
+        "card_id":672,
+        "disp_id":4349,
+        "type":"classic",
+        "issued":"980307 00:00:00"
+    },
+    {
+        "card_id":276,
+        "disp_id":1765,
+        "type":"classic",
+        "issued":"980307 00:00:00"
+    },
+    {
+        "card_id":1230,
+        "disp_id":13312,
+        "type":"classic",
+        "issued":"980308 00:00:00"
+    },
+    {
+        "card_id":599,
+        "disp_id":3824,
+        "type":"gold",
+        "issued":"980308 00:00:00"
+    },
+    {
+        "card_id":72,
+        "disp_id":447,
+        "type":"classic",
+        "issued":"980309 00:00:00"
+    },
+    {
+        "card_id":1199,
+        "disp_id":12826,
+        "type":"classic",
+        "issued":"980309 00:00:00"
+    },
+    {
+        "card_id":48,
+        "disp_id":295,
+        "type":"classic",
+        "issued":"980310 00:00:00"
+    },
+    {
+        "card_id":58,
+        "disp_id":358,
+        "type":"classic",
+        "issued":"980311 00:00:00"
+    },
+    {
+        "card_id":334,
+        "disp_id":2133,
+        "type":"classic",
+        "issued":"980313 00:00:00"
+    },
+    {
+        "card_id":2,
+        "disp_id":19,
+        "type":"classic",
+        "issued":"980313 00:00:00"
+    },
+    {
+        "card_id":228,
+        "disp_id":1382,
+        "type":"junior",
+        "issued":"980315 00:00:00"
+    },
+    {
+        "card_id":244,
+        "disp_id":1480,
+        "type":"classic",
+        "issued":"980316 00:00:00"
+    },
+    {
+        "card_id":1189,
+        "disp_id":12683,
+        "type":"classic",
+        "issued":"980317 00:00:00"
+    },
+    {
+        "card_id":198,
+        "disp_id":1211,
+        "type":"junior",
+        "issued":"980318 00:00:00"
+    },
+    {
+        "card_id":34,
+        "disp_id":225,
+        "type":"classic",
+        "issued":"980320 00:00:00"
+    },
+    {
+        "card_id":535,
+        "disp_id":3395,
+        "type":"classic",
+        "issued":"980322 00:00:00"
+    },
+    {
+        "card_id":269,
+        "disp_id":1718,
+        "type":"gold",
+        "issued":"980322 00:00:00"
+    },
+    {
+        "card_id":515,
+        "disp_id":3268,
+        "type":"classic",
+        "issued":"980323 00:00:00"
+    },
+    {
+        "card_id":290,
+        "disp_id":1833,
+        "type":"classic",
+        "issued":"980324 00:00:00"
+    },
+    {
+        "card_id":315,
+        "disp_id":2005,
+        "type":"junior",
+        "issued":"980324 00:00:00"
+    },
+    {
+        "card_id":784,
+        "disp_id":5461,
+        "type":"classic",
+        "issued":"980324 00:00:00"
+    },
+    {
+        "card_id":63,
+        "disp_id":378,
+        "type":"junior",
+        "issued":"980327 00:00:00"
+    },
+    {
+        "card_id":417,
+        "disp_id":2619,
+        "type":"classic",
+        "issued":"980330 00:00:00"
+    },
+    {
+        "card_id":619,
+        "disp_id":3958,
+        "type":"classic",
+        "issued":"980401 00:00:00"
+    },
+    {
+        "card_id":191,
+        "disp_id":1168,
+        "type":"junior",
+        "issued":"980402 00:00:00"
+    },
+    {
+        "card_id":965,
+        "disp_id":8636,
+        "type":"classic",
+        "issued":"980402 00:00:00"
+    },
+    {
+        "card_id":444,
+        "disp_id":2815,
+        "type":"gold",
+        "issued":"980403 00:00:00"
+    },
+    {
+        "card_id":370,
+        "disp_id":2374,
+        "type":"classic",
+        "issued":"980403 00:00:00"
+    },
+    {
+        "card_id":156,
+        "disp_id":906,
+        "type":"junior",
+        "issued":"980407 00:00:00"
+    },
+    {
+        "card_id":492,
+        "disp_id":3166,
+        "type":"classic",
+        "issued":"980409 00:00:00"
+    },
+    {
+        "card_id":52,
+        "disp_id":326,
+        "type":"gold",
+        "issued":"980410 00:00:00"
+    },
+    {
+        "card_id":71,
+        "disp_id":441,
+        "type":"classic",
+        "issued":"980411 00:00:00"
+    },
+    {
+        "card_id":775,
+        "disp_id":5253,
+        "type":"gold",
+        "issued":"980411 00:00:00"
+    },
+    {
+        "card_id":330,
+        "disp_id":2124,
+        "type":"classic",
+        "issued":"980411 00:00:00"
+    },
+    {
+        "card_id":510,
+        "disp_id":3256,
+        "type":"classic",
+        "issued":"980413 00:00:00"
+    },
+    {
+        "card_id":170,
+        "disp_id":1020,
+        "type":"classic",
+        "issued":"980416 00:00:00"
+    },
+    {
+        "card_id":338,
+        "disp_id":2146,
+        "type":"classic",
+        "issued":"980416 00:00:00"
+    },
+    {
+        "card_id":755,
+        "disp_id":5002,
+        "type":"classic",
+        "issued":"980416 00:00:00"
+    },
+    {
+        "card_id":451,
+        "disp_id":2888,
+        "type":"junior",
+        "issued":"980416 00:00:00"
+    },
+    {
+        "card_id":263,
+        "disp_id":1668,
+        "type":"gold",
+        "issued":"980417 00:00:00"
+    },
+    {
+        "card_id":602,
+        "disp_id":3846,
+        "type":"junior",
+        "issued":"980418 00:00:00"
+    },
+    {
+        "card_id":498,
+        "disp_id":3186,
+        "type":"classic",
+        "issued":"980418 00:00:00"
+    },
+    {
+        "card_id":933,
+        "disp_id":7959,
+        "type":"junior",
+        "issued":"980421 00:00:00"
+    },
+    {
+        "card_id":89,
+        "disp_id":497,
+        "type":"classic",
+        "issued":"980422 00:00:00"
+    },
+    {
+        "card_id":761,
+        "disp_id":5128,
+        "type":"gold",
+        "issued":"980423 00:00:00"
+    },
+    {
+        "card_id":176,
+        "disp_id":1049,
+        "type":"classic",
+        "issued":"980425 00:00:00"
+    },
+    {
+        "card_id":1102,
+        "disp_id":11183,
+        "type":"classic",
+        "issued":"980425 00:00:00"
+    },
+    {
+        "card_id":109,
+        "disp_id":605,
+        "type":"classic",
+        "issued":"980426 00:00:00"
+    },
+    {
+        "card_id":421,
+        "disp_id":2644,
+        "type":"classic",
+        "issued":"980427 00:00:00"
+    },
+    {
+        "card_id":918,
+        "disp_id":7796,
+        "type":"classic",
+        "issued":"980427 00:00:00"
+    },
+    {
+        "card_id":680,
+        "disp_id":4417,
+        "type":"classic",
+        "issued":"980429 00:00:00"
+    },
+    {
+        "card_id":824,
+        "disp_id":6196,
+        "type":"classic",
+        "issued":"980429 00:00:00"
+    },
+    {
+        "card_id":448,
+        "disp_id":2864,
+        "type":"classic",
+        "issued":"980429 00:00:00"
+    },
+    {
+        "card_id":1194,
+        "disp_id":12781,
+        "type":"junior",
+        "issued":"980430 00:00:00"
+    },
+    {
+        "card_id":331,
+        "disp_id":2125,
+        "type":"gold",
+        "issued":"980501 00:00:00"
+    },
+    {
+        "card_id":734,
+        "disp_id":4765,
+        "type":"classic",
+        "issued":"980501 00:00:00"
+    },
+    {
+        "card_id":235,
+        "disp_id":1438,
+        "type":"classic",
+        "issued":"980502 00:00:00"
+    },
+    {
+        "card_id":284,
+        "disp_id":1807,
+        "type":"classic",
+        "issued":"980507 00:00:00"
+    },
+    {
+        "card_id":412,
+        "disp_id":2585,
+        "type":"classic",
+        "issued":"980509 00:00:00"
+    },
+    {
+        "card_id":64,
+        "disp_id":402,
+        "type":"classic",
+        "issued":"980510 00:00:00"
+    },
+    {
+        "card_id":186,
+        "disp_id":1133,
+        "type":"gold",
+        "issued":"980512 00:00:00"
+    },
+    {
+        "card_id":458,
+        "disp_id":2951,
+        "type":"gold",
+        "issued":"980514 00:00:00"
+    },
+    {
+        "card_id":465,
+        "disp_id":2995,
+        "type":"classic",
+        "issued":"980515 00:00:00"
+    },
+    {
+        "card_id":457,
+        "disp_id":2948,
+        "type":"junior",
+        "issued":"980516 00:00:00"
+    },
+    {
+        "card_id":456,
+        "disp_id":2929,
+        "type":"classic",
+        "issued":"980516 00:00:00"
+    },
+    {
+        "card_id":645,
+        "disp_id":4166,
+        "type":"classic",
+        "issued":"980517 00:00:00"
+    },
+    {
+        "card_id":906,
+        "disp_id":7683,
+        "type":"gold",
+        "issued":"980518 00:00:00"
+    },
+    {
+        "card_id":756,
+        "disp_id":5012,
+        "type":"classic",
+        "issued":"980518 00:00:00"
+    },
+    {
+        "card_id":218,
+        "disp_id":1322,
+        "type":"classic",
+        "issued":"980518 00:00:00"
+    },
+    {
+        "card_id":717,
+        "disp_id":4654,
+        "type":"classic",
+        "issued":"980519 00:00:00"
+    },
+    {
+        "card_id":8,
+        "disp_id":60,
+        "type":"junior",
+        "issued":"980520 00:00:00"
+    },
+    {
+        "card_id":700,
+        "disp_id":4533,
+        "type":"junior",
+        "issued":"980522 00:00:00"
+    },
+    {
+        "card_id":757,
+        "disp_id":5013,
+        "type":"junior",
+        "issued":"980522 00:00:00"
+    },
+    {
+        "card_id":126,
+        "disp_id":707,
+        "type":"classic",
+        "issued":"980523 00:00:00"
+    },
+    {
+        "card_id":358,
+        "disp_id":2287,
+        "type":"junior",
+        "issued":"980523 00:00:00"
+    },
+    {
+        "card_id":639,
+        "disp_id":4112,
+        "type":"classic",
+        "issued":"980523 00:00:00"
+    },
+    {
+        "card_id":212,
+        "disp_id":1280,
+        "type":"classic",
+        "issued":"980524 00:00:00"
+    },
+    {
+        "card_id":415,
+        "disp_id":2609,
+        "type":"classic",
+        "issued":"980525 00:00:00"
+    },
+    {
+        "card_id":161,
+        "disp_id":963,
+        "type":"classic",
+        "issued":"980525 00:00:00"
+    },
+    {
+        "card_id":207,
+        "disp_id":1244,
+        "type":"classic",
+        "issued":"980525 00:00:00"
+    },
+    {
+        "card_id":1216,
+        "disp_id":13097,
+        "type":"classic",
+        "issued":"980526 00:00:00"
+    },
+    {
+        "card_id":649,
+        "disp_id":4190,
+        "type":"classic",
+        "issued":"980529 00:00:00"
+    },
+    {
+        "card_id":475,
+        "disp_id":3075,
+        "type":"gold",
+        "issued":"980531 00:00:00"
+    },
+    {
+        "card_id":586,
+        "disp_id":3756,
+        "type":"classic",
+        "issued":"980531 00:00:00"
+    },
+    {
+        "card_id":446,
+        "disp_id":2841,
+        "type":"classic",
+        "issued":"980604 00:00:00"
+    },
+    {
+        "card_id":823,
+        "disp_id":6178,
+        "type":"classic",
+        "issued":"980605 00:00:00"
+    },
+    {
+        "card_id":644,
+        "disp_id":4165,
+        "type":"classic",
+        "issued":"980605 00:00:00"
+    },
+    {
+        "card_id":111,
+        "disp_id":615,
+        "type":"classic",
+        "issued":"980605 00:00:00"
+    },
+    {
+        "card_id":469,
+        "disp_id":3026,
+        "type":"classic",
+        "issued":"980607 00:00:00"
+    },
+    {
+        "card_id":17,
+        "disp_id":127,
+        "type":"classic",
+        "issued":"980607 00:00:00"
+    },
+    {
+        "card_id":558,
+        "disp_id":3568,
+        "type":"classic",
+        "issued":"980607 00:00:00"
+    },
+    {
+        "card_id":192,
+        "disp_id":1169,
+        "type":"classic",
+        "issued":"980608 00:00:00"
+    },
+    {
+        "card_id":631,
+        "disp_id":4061,
+        "type":"junior",
+        "issued":"980609 00:00:00"
+    },
+    {
+        "card_id":317,
+        "disp_id":2015,
+        "type":"classic",
+        "issued":"980610 00:00:00"
+    },
+    {
+        "card_id":716,
+        "disp_id":4651,
+        "type":"junior",
+        "issued":"980611 00:00:00"
+    },
+    {
+        "card_id":7,
+        "disp_id":56,
+        "type":"classic",
+        "issued":"980611 00:00:00"
+    },
+    {
+        "card_id":863,
+        "disp_id":6906,
+        "type":"classic",
+        "issued":"980612 00:00:00"
+    },
+    {
+        "card_id":123,
+        "disp_id":679,
+        "type":"classic",
+        "issued":"980612 00:00:00"
+    },
+    {
+        "card_id":770,
+        "disp_id":5232,
+        "type":"classic",
+        "issued":"980615 00:00:00"
+    },
+    {
+        "card_id":143,
+        "disp_id":816,
+        "type":"classic",
+        "issued":"980615 00:00:00"
+    },
+    {
+        "card_id":785,
+        "disp_id":5468,
+        "type":"classic",
+        "issued":"980616 00:00:00"
+    },
+    {
+        "card_id":646,
+        "disp_id":4167,
+        "type":"classic",
+        "issued":"980617 00:00:00"
+    },
+    {
+        "card_id":160,
+        "disp_id":954,
+        "type":"classic",
+        "issued":"980617 00:00:00"
+    },
+    {
+        "card_id":669,
+        "disp_id":4341,
+        "type":"classic",
+        "issued":"980619 00:00:00"
+    },
+    {
+        "card_id":101,
+        "disp_id":566,
+        "type":"classic",
+        "issued":"980619 00:00:00"
+    },
+    {
+        "card_id":332,
+        "disp_id":2126,
+        "type":"classic",
+        "issued":"980619 00:00:00"
+    },
+    {
+        "card_id":362,
+        "disp_id":2320,
+        "type":"gold",
+        "issued":"980621 00:00:00"
+    },
+    {
+        "card_id":173,
+        "disp_id":1031,
+        "type":"classic",
+        "issued":"980621 00:00:00"
+    },
+    {
+        "card_id":16,
+        "disp_id":116,
+        "type":"classic",
+        "issued":"980623 00:00:00"
+    },
+    {
+        "card_id":365,
+        "disp_id":2332,
+        "type":"classic",
+        "issued":"980623 00:00:00"
+    },
+    {
+        "card_id":701,
+        "disp_id":4534,
+        "type":"classic",
+        "issued":"980624 00:00:00"
+    },
+    {
+        "card_id":80,
+        "disp_id":471,
+        "type":"classic",
+        "issued":"980625 00:00:00"
+    },
+    {
+        "card_id":831,
+        "disp_id":6275,
+        "type":"classic",
+        "issued":"980629 00:00:00"
+    },
+    {
+        "card_id":354,
+        "disp_id":2265,
+        "type":"gold",
+        "issued":"980630 00:00:00"
+    },
+    {
+        "card_id":250,
+        "disp_id":1522,
+        "type":"classic",
+        "issued":"980630 00:00:00"
+    },
+    {
+        "card_id":142,
+        "disp_id":810,
+        "type":"classic",
+        "issued":"980701 00:00:00"
+    },
+    {
+        "card_id":991,
+        "disp_id":9149,
+        "type":"junior",
+        "issued":"980701 00:00:00"
+    },
+    {
+        "card_id":1192,
+        "disp_id":12736,
+        "type":"classic",
+        "issued":"980702 00:00:00"
+    },
+    {
+        "card_id":738,
+        "disp_id":4808,
+        "type":"junior",
+        "issued":"980702 00:00:00"
+    },
+    {
+        "card_id":627,
+        "disp_id":3994,
+        "type":"classic",
+        "issued":"980705 00:00:00"
+    },
+    {
+        "card_id":696,
+        "disp_id":4516,
+        "type":"classic",
+        "issued":"980705 00:00:00"
+    },
+    {
+        "card_id":260,
+        "disp_id":1616,
+        "type":"classic",
+        "issued":"980705 00:00:00"
+    },
+    {
+        "card_id":768,
+        "disp_id":5223,
+        "type":"classic",
+        "issued":"980706 00:00:00"
+    },
+    {
+        "card_id":233,
+        "disp_id":1418,
+        "type":"classic",
+        "issued":"980707 00:00:00"
+    },
+    {
+        "card_id":450,
+        "disp_id":2880,
+        "type":"classic",
+        "issued":"980707 00:00:00"
+    },
+    {
+        "card_id":440,
+        "disp_id":2782,
+        "type":"classic",
+        "issued":"980707 00:00:00"
+    },
+    {
+        "card_id":301,
+        "disp_id":1899,
+        "type":"classic",
+        "issued":"980707 00:00:00"
+    },
+    {
+        "card_id":485,
+        "disp_id":3124,
+        "type":"classic",
+        "issued":"980708 00:00:00"
+    },
+    {
+        "card_id":567,
+        "disp_id":3611,
+        "type":"classic",
+        "issued":"980708 00:00:00"
+    },
+    {
+        "card_id":66,
+        "disp_id":425,
+        "type":"classic",
+        "issued":"980708 00:00:00"
+    },
+    {
+        "card_id":1002,
+        "disp_id":9261,
+        "type":"classic",
+        "issued":"980709 00:00:00"
+    },
+    {
+        "card_id":453,
+        "disp_id":2911,
+        "type":"gold",
+        "issued":"980712 00:00:00"
+    },
+    {
+        "card_id":277,
+        "disp_id":1777,
+        "type":"gold",
+        "issued":"980712 00:00:00"
+    },
+    {
+        "card_id":571,
+        "disp_id":3627,
+        "type":"junior",
+        "issued":"980713 00:00:00"
+    },
+    {
+        "card_id":687,
+        "disp_id":4471,
+        "type":"classic",
+        "issued":"980714 00:00:00"
+    },
+    {
+        "card_id":640,
+        "disp_id":4115,
+        "type":"classic",
+        "issued":"980714 00:00:00"
+    },
+    {
+        "card_id":39,
+        "disp_id":254,
+        "type":"classic",
+        "issued":"980714 00:00:00"
+    },
+    {
+        "card_id":435,
+        "disp_id":2740,
+        "type":"classic",
+        "issued":"980715 00:00:00"
+    },
+    {
+        "card_id":411,
+        "disp_id":2572,
+        "type":"classic",
+        "issued":"980715 00:00:00"
+    },
+    {
+        "card_id":548,
+        "disp_id":3501,
+        "type":"classic",
+        "issued":"980716 00:00:00"
+    },
+    {
+        "card_id":1167,
+        "disp_id":12335,
+        "type":"classic",
+        "issued":"980718 00:00:00"
+    },
+    {
+        "card_id":727,
+        "disp_id":4723,
+        "type":"classic",
+        "issued":"980719 00:00:00"
+    },
+    {
+        "card_id":603,
+        "disp_id":3850,
+        "type":"classic",
+        "issued":"980720 00:00:00"
+    },
+    {
+        "card_id":496,
+        "disp_id":3183,
+        "type":"junior",
+        "issued":"980721 00:00:00"
+    },
+    {
+        "card_id":73,
+        "disp_id":451,
+        "type":"junior",
+        "issued":"980721 00:00:00"
+    },
+    {
+        "card_id":146,
+        "disp_id":822,
+        "type":"classic",
+        "issued":"980723 00:00:00"
+    },
+    {
+        "card_id":439,
+        "disp_id":2779,
+        "type":"classic",
+        "issued":"980723 00:00:00"
+    },
+    {
+        "card_id":613,
+        "disp_id":3913,
+        "type":"classic",
+        "issued":"980723 00:00:00"
+    },
+    {
+        "card_id":323,
+        "disp_id":2065,
+        "type":"junior",
+        "issued":"980724 00:00:00"
+    },
+    {
+        "card_id":623,
+        "disp_id":3984,
+        "type":"classic",
+        "issued":"980725 00:00:00"
+    },
+    {
+        "card_id":530,
+        "disp_id":3360,
+        "type":"classic",
+        "issued":"980725 00:00:00"
+    },
+    {
+        "card_id":396,
+        "disp_id":2508,
+        "type":"classic",
+        "issued":"980726 00:00:00"
+    },
+    {
+        "card_id":1076,
+        "disp_id":10604,
+        "type":"gold",
+        "issued":"980727 00:00:00"
+    },
+    {
+        "card_id":344,
+        "disp_id":2168,
+        "type":"classic",
+        "issued":"980727 00:00:00"
+    },
+    {
+        "card_id":525,
+        "disp_id":3337,
+        "type":"classic",
+        "issued":"980727 00:00:00"
+    },
+    {
+        "card_id":42,
+        "disp_id":264,
+        "type":"junior",
+        "issued":"980728 00:00:00"
+    },
+    {
+        "card_id":740,
+        "disp_id":4823,
+        "type":"junior",
+        "issued":"980728 00:00:00"
+    },
+    {
+        "card_id":780,
+        "disp_id":5333,
+        "type":"classic",
+        "issued":"980729 00:00:00"
+    },
+    {
+        "card_id":509,
+        "disp_id":3253,
+        "type":"gold",
+        "issued":"980730 00:00:00"
+    },
+    {
+        "card_id":308,
+        "disp_id":1938,
+        "type":"classic",
+        "issued":"980730 00:00:00"
+    },
+    {
+        "card_id":618,
+        "disp_id":3947,
+        "type":"classic",
+        "issued":"980731 00:00:00"
+    },
+    {
+        "card_id":209,
+        "disp_id":1251,
+        "type":"classic",
+        "issued":"980731 00:00:00"
+    },
+    {
+        "card_id":1155,
+        "disp_id":12088,
+        "type":"classic",
+        "issued":"980801 00:00:00"
+    },
+    {
+        "card_id":95,
+        "disp_id":519,
+        "type":"junior",
+        "issued":"980801 00:00:00"
+    },
+    {
+        "card_id":833,
+        "disp_id":6299,
+        "type":"classic",
+        "issued":"980801 00:00:00"
+    },
+    {
+        "card_id":319,
+        "disp_id":2038,
+        "type":"junior",
+        "issued":"980802 00:00:00"
+    },
+    {
+        "card_id":795,
+        "disp_id":5563,
+        "type":"classic",
+        "issued":"980802 00:00:00"
+    },
+    {
+        "card_id":508,
+        "disp_id":3249,
+        "type":"classic",
+        "issued":"980803 00:00:00"
+    },
+    {
+        "card_id":78,
+        "disp_id":468,
+        "type":"classic",
+        "issued":"980804 00:00:00"
+    },
+    {
+        "card_id":683,
+        "disp_id":4437,
+        "type":"classic",
+        "issued":"980805 00:00:00"
+    },
+    {
+        "card_id":32,
+        "disp_id":219,
+        "type":"classic",
+        "issued":"980806 00:00:00"
+    },
+    {
+        "card_id":550,
+        "disp_id":3515,
+        "type":"classic",
+        "issued":"980808 00:00:00"
+    },
+    {
+        "card_id":1217,
+        "disp_id":13098,
+        "type":"junior",
+        "issued":"980809 00:00:00"
+    },
+    {
+        "card_id":1003,
+        "disp_id":9274,
+        "type":"classic",
+        "issued":"980809 00:00:00"
+    },
+    {
+        "card_id":179,
+        "disp_id":1059,
+        "type":"classic",
+        "issued":"980810 00:00:00"
+    },
+    {
+        "card_id":169,
+        "disp_id":1019,
+        "type":"classic",
+        "issued":"980810 00:00:00"
+    },
+    {
+        "card_id":221,
+        "disp_id":1339,
+        "type":"classic",
+        "issued":"980810 00:00:00"
+    },
+    {
+        "card_id":684,
+        "disp_id":4457,
+        "type":"classic",
+        "issued":"980811 00:00:00"
+    },
+    {
+        "card_id":77,
+        "disp_id":466,
+        "type":"classic",
+        "issued":"980813 00:00:00"
+    },
+    {
+        "card_id":581,
+        "disp_id":3721,
+        "type":"classic",
+        "issued":"980813 00:00:00"
+    },
+    {
+        "card_id":47,
+        "disp_id":280,
+        "type":"classic",
+        "issued":"980813 00:00:00"
+    },
+    {
+        "card_id":386,
+        "disp_id":2478,
+        "type":"classic",
+        "issued":"980814 00:00:00"
+    },
+    {
+        "card_id":346,
+        "disp_id":2177,
+        "type":"classic",
+        "issued":"980814 00:00:00"
+    },
+    {
+        "card_id":406,
+        "disp_id":2548,
+        "type":"classic",
+        "issued":"980816 00:00:00"
+    },
+    {
+        "card_id":951,
+        "disp_id":8392,
+        "type":"classic",
+        "issued":"980816 00:00:00"
+    },
+    {
+        "card_id":519,
+        "disp_id":3297,
+        "type":"classic",
+        "issued":"980816 00:00:00"
+    },
+    {
+        "card_id":321,
+        "disp_id":2058,
+        "type":"gold",
+        "issued":"980816 00:00:00"
+    },
+    {
+        "card_id":128,
+        "disp_id":716,
+        "type":"classic",
+        "issued":"980819 00:00:00"
+    },
+    {
+        "card_id":711,
+        "disp_id":4592,
+        "type":"classic",
+        "issued":"980819 00:00:00"
+    },
+    {
+        "card_id":538,
+        "disp_id":3414,
+        "type":"gold",
+        "issued":"980820 00:00:00"
+    },
+    {
+        "card_id":29,
+        "disp_id":192,
+        "type":"classic",
+        "issued":"980820 00:00:00"
+    },
+    {
+        "card_id":834,
+        "disp_id":6301,
+        "type":"classic",
+        "issued":"980821 00:00:00"
+    },
+    {
+        "card_id":461,
+        "disp_id":2977,
+        "type":"gold",
+        "issued":"980821 00:00:00"
+    },
+    {
+        "card_id":239,
+        "disp_id":1453,
+        "type":"gold",
+        "issued":"980824 00:00:00"
+    },
+    {
+        "card_id":395,
+        "disp_id":2502,
+        "type":"classic",
+        "issued":"980824 00:00:00"
+    },
+    {
+        "card_id":531,
+        "disp_id":3378,
+        "type":"gold",
+        "issued":"980824 00:00:00"
+    },
+    {
+        "card_id":1150,
+        "disp_id":12020,
+        "type":"classic",
+        "issued":"980825 00:00:00"
+    },
+    {
+        "card_id":96,
+        "disp_id":528,
+        "type":"classic",
+        "issued":"980826 00:00:00"
+    },
+    {
+        "card_id":367,
+        "disp_id":2343,
+        "type":"classic",
+        "issued":"980827 00:00:00"
+    },
+    {
+        "card_id":1023,
+        "disp_id":9621,
+        "type":"classic",
+        "issued":"980830 00:00:00"
+    },
+    {
+        "card_id":702,
+        "disp_id":4543,
+        "type":"classic",
+        "issued":"980830 00:00:00"
+    },
+    {
+        "card_id":405,
+        "disp_id":2542,
+        "type":"classic",
+        "issued":"980831 00:00:00"
+    },
+    {
+        "card_id":480,
+        "disp_id":3092,
+        "type":"classic",
+        "issued":"980901 00:00:00"
+    },
+    {
+        "card_id":1098,
+        "disp_id":11063,
+        "type":"classic",
+        "issued":"980901 00:00:00"
+    },
+    {
+        "card_id":79,
+        "disp_id":469,
+        "type":"classic",
+        "issued":"980902 00:00:00"
+    },
+    {
+        "card_id":402,
+        "disp_id":2536,
+        "type":"classic",
+        "issued":"980903 00:00:00"
+    },
+    {
+        "card_id":551,
+        "disp_id":3517,
+        "type":"classic",
+        "issued":"980903 00:00:00"
+    },
+    {
+        "card_id":425,
+        "disp_id":2662,
+        "type":"junior",
+        "issued":"980904 00:00:00"
+    },
+    {
+        "card_id":1195,
+        "disp_id":12787,
+        "type":"gold",
+        "issued":"980904 00:00:00"
+    },
+    {
+        "card_id":1154,
+        "disp_id":12070,
+        "type":"classic",
+        "issued":"980905 00:00:00"
+    },
+    {
+        "card_id":307,
+        "disp_id":1930,
+        "type":"gold",
+        "issued":"980905 00:00:00"
+    },
+    {
+        "card_id":752,
+        "disp_id":4944,
+        "type":"junior",
+        "issued":"980906 00:00:00"
+    },
+    {
+        "card_id":134,
+        "disp_id":769,
+        "type":"classic",
+        "issued":"980907 00:00:00"
+    },
+    {
+        "card_id":285,
+        "disp_id":1811,
+        "type":"gold",
+        "issued":"980910 00:00:00"
+    },
+    {
+        "card_id":544,
+        "disp_id":3448,
+        "type":"gold",
+        "issued":"980910 00:00:00"
+    },
+    {
+        "card_id":526,
+        "disp_id":3339,
+        "type":"classic",
+        "issued":"980910 00:00:00"
+    },
+    {
+        "card_id":352,
+        "disp_id":2235,
+        "type":"classic",
+        "issued":"980911 00:00:00"
+    },
+    {
+        "card_id":328,
+        "disp_id":2121,
+        "type":"junior",
+        "issued":"980912 00:00:00"
+    },
+    {
+        "card_id":26,
+        "disp_id":161,
+        "type":"classic",
+        "issued":"980914 00:00:00"
+    },
+    {
+        "card_id":141,
+        "disp_id":808,
+        "type":"classic",
+        "issued":"980915 00:00:00"
+    },
+    {
+        "card_id":151,
+        "disp_id":861,
+        "type":"classic",
+        "issued":"980916 00:00:00"
+    },
+    {
+        "card_id":203,
+        "disp_id":1231,
+        "type":"classic",
+        "issued":"980916 00:00:00"
+    },
+    {
+        "card_id":653,
+        "disp_id":4212,
+        "type":"classic",
+        "issued":"980916 00:00:00"
+    },
+    {
+        "card_id":880,
+        "disp_id":7186,
+        "type":"classic",
+        "issued":"980917 00:00:00"
+    },
+    {
+        "card_id":620,
+        "disp_id":3959,
+        "type":"classic",
+        "issued":"980917 00:00:00"
+    },
+    {
+        "card_id":630,
+        "disp_id":4019,
+        "type":"classic",
+        "issued":"980918 00:00:00"
+    },
+    {
+        "card_id":1188,
+        "disp_id":12678,
+        "type":"classic",
+        "issued":"980919 00:00:00"
+    },
+    {
+        "card_id":389,
+        "disp_id":2489,
+        "type":"gold",
+        "issued":"980919 00:00:00"
+    },
+    {
+        "card_id":1024,
+        "disp_id":9622,
+        "type":"classic",
+        "issued":"980920 00:00:00"
+    },
+    {
+        "card_id":193,
+        "disp_id":1179,
+        "type":"gold",
+        "issued":"980921 00:00:00"
+    },
+    {
+        "card_id":758,
+        "disp_id":5016,
+        "type":"classic",
+        "issued":"980921 00:00:00"
+    },
+    {
+        "card_id":634,
+        "disp_id":4081,
+        "type":"junior",
+        "issued":"980922 00:00:00"
+    },
+    {
+        "card_id":361,
+        "disp_id":2312,
+        "type":"classic",
+        "issued":"980923 00:00:00"
+    },
+    {
+        "card_id":242,
+        "disp_id":1473,
+        "type":"classic",
+        "issued":"980924 00:00:00"
+    },
+    {
+        "card_id":923,
+        "disp_id":7855,
+        "type":"classic",
+        "issued":"980924 00:00:00"
+    },
+    {
+        "card_id":1007,
+        "disp_id":9333,
+        "type":"gold",
+        "issued":"980925 00:00:00"
+    },
+    {
+        "card_id":520,
+        "disp_id":3308,
+        "type":"classic",
+        "issued":"980925 00:00:00"
+    },
+    {
+        "card_id":629,
+        "disp_id":4018,
+        "type":"junior",
+        "issued":"980925 00:00:00"
+    },
+    {
+        "card_id":335,
+        "disp_id":2137,
+        "type":"classic",
+        "issued":"980925 00:00:00"
+    },
+    {
+        "card_id":414,
+        "disp_id":2606,
+        "type":"classic",
+        "issued":"980926 00:00:00"
+    },
+    {
+        "card_id":36,
+        "disp_id":236,
+        "type":"classic",
+        "issued":"980928 00:00:00"
+    },
+    {
+        "card_id":561,
+        "disp_id":3581,
+        "type":"gold",
+        "issued":"980928 00:00:00"
+    },
+    {
+        "card_id":291,
+        "disp_id":1836,
+        "type":"classic",
+        "issued":"980929 00:00:00"
+    },
+    {
+        "card_id":231,
+        "disp_id":1390,
+        "type":"junior",
+        "issued":"980929 00:00:00"
+    },
+    {
+        "card_id":782,
+        "disp_id":5376,
+        "type":"classic",
+        "issued":"980929 00:00:00"
+    },
+    {
+        "card_id":180,
+        "disp_id":1062,
+        "type":"classic",
+        "issued":"980929 00:00:00"
+    },
+    {
+        "card_id":765,
+        "disp_id":5175,
+        "type":"classic",
+        "issued":"980929 00:00:00"
+    },
+    {
+        "card_id":357,
+        "disp_id":2277,
+        "type":"junior",
+        "issued":"980929 00:00:00"
+    },
+    {
+        "card_id":554,
+        "disp_id":3535,
+        "type":"classic",
+        "issued":"980929 00:00:00"
+    },
+    {
+        "card_id":956,
+        "disp_id":8502,
+        "type":"classic",
+        "issued":"980930 00:00:00"
+    },
+    {
+        "card_id":676,
+        "disp_id":4380,
+        "type":"classic",
+        "issued":"980930 00:00:00"
+    },
+    {
+        "card_id":255,
+        "disp_id":1579,
+        "type":"gold",
+        "issued":"981001 00:00:00"
+    },
+    {
+        "card_id":1193,
+        "disp_id":12743,
+        "type":"classic",
+        "issued":"981001 00:00:00"
+    },
+    {
+        "card_id":416,
+        "disp_id":2616,
+        "type":"classic",
+        "issued":"981001 00:00:00"
+    },
+    {
+        "card_id":585,
+        "disp_id":3753,
+        "type":"gold",
+        "issued":"981001 00:00:00"
+    },
+    {
+        "card_id":744,
+        "disp_id":4863,
+        "type":"classic",
+        "issued":"981002 00:00:00"
+    },
+    {
+        "card_id":23,
+        "disp_id":146,
+        "type":"classic",
+        "issued":"981003 00:00:00"
+    },
+    {
+        "card_id":394,
+        "disp_id":2501,
+        "type":"classic",
+        "issued":"981005 00:00:00"
+    },
+    {
+        "card_id":460,
+        "disp_id":2971,
+        "type":"classic",
+        "issued":"981005 00:00:00"
+    },
+    {
+        "card_id":35,
+        "disp_id":231,
+        "type":"classic",
+        "issued":"981007 00:00:00"
+    },
+    {
+        "card_id":447,
+        "disp_id":2845,
+        "type":"classic",
+        "issued":"981007 00:00:00"
+    },
+    {
+        "card_id":264,
+        "disp_id":1669,
+        "type":"classic",
+        "issued":"981007 00:00:00"
+    },
+    {
+        "card_id":245,
+        "disp_id":1483,
+        "type":"classic",
+        "issued":"981008 00:00:00"
+    },
+    {
+        "card_id":505,
+        "disp_id":3233,
+        "type":"junior",
+        "issued":"981009 00:00:00"
+    },
+    {
+        "card_id":336,
+        "disp_id":2138,
+        "type":"junior",
+        "issued":"981009 00:00:00"
+    },
+    {
+        "card_id":366,
+        "disp_id":2335,
+        "type":"classic",
+        "issued":"981009 00:00:00"
+    },
+    {
+        "card_id":533,
+        "disp_id":3384,
+        "type":"classic",
+        "issued":"981009 00:00:00"
+    },
+    {
+        "card_id":288,
+        "disp_id":1826,
+        "type":"classic",
+        "issued":"981010 00:00:00"
+    },
+    {
+        "card_id":754,
+        "disp_id":4976,
+        "type":"junior",
+        "issued":"981010 00:00:00"
+    },
+    {
+        "card_id":116,
+        "disp_id":646,
+        "type":"classic",
+        "issued":"981011 00:00:00"
+    },
+    {
+        "card_id":1035,
+        "disp_id":9732,
+        "type":"classic",
+        "issued":"981011 00:00:00"
+    },
+    {
+        "card_id":682,
+        "disp_id":4429,
+        "type":"classic",
+        "issued":"981011 00:00:00"
+    },
+    {
+        "card_id":792,
+        "disp_id":5526,
+        "type":"classic",
+        "issued":"981011 00:00:00"
+    },
+    {
+        "card_id":385,
+        "disp_id":2476,
+        "type":"classic",
+        "issued":"981012 00:00:00"
+    },
+    {
+        "card_id":53,
+        "disp_id":333,
+        "type":"classic",
+        "issued":"981013 00:00:00"
+    },
+    {
+        "card_id":751,
+        "disp_id":4941,
+        "type":"junior",
+        "issued":"981015 00:00:00"
+    },
+    {
+        "card_id":614,
+        "disp_id":3938,
+        "type":"junior",
+        "issued":"981016 00:00:00"
+    },
+    {
+        "card_id":957,
+        "disp_id":8506,
+        "type":"junior",
+        "issued":"981016 00:00:00"
+    },
+    {
+        "card_id":1,
+        "disp_id":9,
+        "type":"gold",
+        "issued":"981016 00:00:00"
+    },
+    {
+        "card_id":743,
+        "disp_id":4862,
+        "type":"gold",
+        "issued":"981018 00:00:00"
+    },
+    {
+        "card_id":61,
+        "disp_id":374,
+        "type":"classic",
+        "issued":"981018 00:00:00"
+    },
+    {
+        "card_id":60,
+        "disp_id":370,
+        "type":"classic",
+        "issued":"981018 00:00:00"
+    },
+    {
+        "card_id":74,
+        "disp_id":453,
+        "type":"classic",
+        "issued":"981018 00:00:00"
+    },
+    {
+        "card_id":749,
+        "disp_id":4929,
+        "type":"classic",
+        "issued":"981019 00:00:00"
+    },
+    {
+        "card_id":339,
+        "disp_id":2154,
+        "type":"classic",
+        "issued":"981019 00:00:00"
+    },
+    {
+        "card_id":769,
+        "disp_id":5224,
+        "type":"classic",
+        "issued":"981020 00:00:00"
+    },
+    {
+        "card_id":488,
+        "disp_id":3134,
+        "type":"gold",
+        "issued":"981020 00:00:00"
+    },
+    {
+        "card_id":31,
+        "disp_id":208,
+        "type":"classic",
+        "issued":"981021 00:00:00"
+    },
+    {
+        "card_id":542,
+        "disp_id":3439,
+        "type":"classic",
+        "issued":"981022 00:00:00"
+    },
+    {
+        "card_id":750,
+        "disp_id":4937,
+        "type":"classic",
+        "issued":"981024 00:00:00"
+    },
+    {
+        "card_id":855,
+        "disp_id":6764,
+        "type":"classic",
+        "issued":"981024 00:00:00"
+    },
+    {
+        "card_id":299,
+        "disp_id":1886,
+        "type":"classic",
+        "issued":"981025 00:00:00"
+    },
+    {
+        "card_id":158,
+        "disp_id":928,
+        "type":"gold",
+        "issued":"981025 00:00:00"
+    },
+    {
+        "card_id":857,
+        "disp_id":6789,
+        "type":"junior",
+        "issued":"981025 00:00:00"
+    },
+    {
+        "card_id":230,
+        "disp_id":1388,
+        "type":"gold",
+        "issued":"981025 00:00:00"
+    },
+    {
+        "card_id":295,
+        "disp_id":1864,
+        "type":"classic",
+        "issued":"981026 00:00:00"
+    },
+    {
+        "card_id":584,
+        "disp_id":3751,
+        "type":"classic",
+        "issued":"981028 00:00:00"
+    },
+    {
+        "card_id":449,
+        "disp_id":2865,
+        "type":"classic",
+        "issued":"981028 00:00:00"
+    },
+    {
+        "card_id":351,
+        "disp_id":2232,
+        "type":"classic",
+        "issued":"981101 00:00:00"
+    },
+    {
+        "card_id":138,
+        "disp_id":791,
+        "type":"classic",
+        "issued":"981102 00:00:00"
+    },
+    {
+        "card_id":524,
+        "disp_id":3333,
+        "type":"classic",
+        "issued":"981102 00:00:00"
+    },
+    {
+        "card_id":693,
+        "disp_id":4495,
+        "type":"junior",
+        "issued":"981103 00:00:00"
+    },
+    {
+        "card_id":604,
+        "disp_id":3858,
+        "type":"classic",
+        "issued":"981104 00:00:00"
+    },
+    {
+        "card_id":746,
+        "disp_id":4901,
+        "type":"classic",
+        "issued":"981104 00:00:00"
+    },
+    {
+        "card_id":333,
+        "disp_id":2128,
+        "type":"classic",
+        "issued":"981104 00:00:00"
+    },
+    {
+        "card_id":129,
+        "disp_id":719,
+        "type":"classic",
+        "issued":"981105 00:00:00"
+    },
+    {
+        "card_id":429,
+        "disp_id":2709,
+        "type":"classic",
+        "issued":"981105 00:00:00"
+    },
+    {
+        "card_id":424,
+        "disp_id":2659,
+        "type":"classic",
+        "issued":"981106 00:00:00"
+    },
+    {
+        "card_id":345,
+        "disp_id":2175,
+        "type":"classic",
+        "issued":"981107 00:00:00"
+    },
+    {
+        "card_id":1165,
+        "disp_id":12291,
+        "type":"classic",
+        "issued":"981108 00:00:00"
+    },
+    {
+        "card_id":1070,
+        "disp_id":10490,
+        "type":"junior",
+        "issued":"981108 00:00:00"
+    },
+    {
+        "card_id":217,
+        "disp_id":1316,
+        "type":"classic",
+        "issued":"981109 00:00:00"
+    },
+    {
+        "card_id":636,
+        "disp_id":4091,
+        "type":"junior",
+        "issued":"981109 00:00:00"
+    },
+    {
+        "card_id":820,
+        "disp_id":6039,
+        "type":"classic",
+        "issued":"981110 00:00:00"
+    },
+    {
+        "card_id":46,
+        "disp_id":273,
+        "type":"classic",
+        "issued":"981110 00:00:00"
+    },
+    {
+        "card_id":742,
+        "disp_id":4833,
+        "type":"classic",
+        "issued":"981110 00:00:00"
+    },
+    {
+        "card_id":404,
+        "disp_id":2540,
+        "type":"junior",
+        "issued":"981112 00:00:00"
+    },
+    {
+        "card_id":102,
+        "disp_id":575,
+        "type":"classic",
+        "issued":"981112 00:00:00"
+    },
+    {
+        "card_id":455,
+        "disp_id":2924,
+        "type":"classic",
+        "issued":"981113 00:00:00"
+    },
+    {
+        "card_id":253,
+        "disp_id":1536,
+        "type":"gold",
+        "issued":"981114 00:00:00"
+    },
+    {
+        "card_id":570,
+        "disp_id":3620,
+        "type":"classic",
+        "issued":"981114 00:00:00"
+    },
+    {
+        "card_id":27,
+        "disp_id":167,
+        "type":"junior",
+        "issued":"981115 00:00:00"
+    },
+    {
+        "card_id":580,
+        "disp_id":3713,
+        "type":"classic",
+        "issued":"981116 00:00:00"
+    },
+    {
+        "card_id":409,
+        "disp_id":2562,
+        "type":"classic",
+        "issued":"981116 00:00:00"
+    },
+    {
+        "card_id":205,
+        "disp_id":1242,
+        "type":"classic",
+        "issued":"981116 00:00:00"
+    },
+    {
+        "card_id":773,
+        "disp_id":5245,
+        "type":"classic",
+        "issued":"981118 00:00:00"
+    },
+    {
+        "card_id":487,
+        "disp_id":3130,
+        "type":"classic",
+        "issued":"981118 00:00:00"
+    },
+    {
+        "card_id":177,
+        "disp_id":1056,
+        "type":"classic",
+        "issued":"981119 00:00:00"
+    },
+    {
+        "card_id":632,
+        "disp_id":4069,
+        "type":"classic",
+        "issued":"981119 00:00:00"
+    },
+    {
+        "card_id":445,
+        "disp_id":2820,
+        "type":"gold",
+        "issued":"981119 00:00:00"
+    },
+    {
+        "card_id":1001,
+        "disp_id":9247,
+        "type":"classic",
+        "issued":"981120 00:00:00"
+    },
+    {
+        "card_id":257,
+        "disp_id":1589,
+        "type":"classic",
+        "issued":"981120 00:00:00"
+    },
+    {
+        "card_id":178,
+        "disp_id":1057,
+        "type":"classic",
+        "issued":"981121 00:00:00"
+    },
+    {
+        "card_id":704,
+        "disp_id":4553,
+        "type":"gold",
+        "issued":"981121 00:00:00"
+    },
+    {
+        "card_id":56,
+        "disp_id":339,
+        "type":"classic",
+        "issued":"981122 00:00:00"
+    },
+    {
+        "card_id":148,
+        "disp_id":834,
+        "type":"classic",
+        "issued":"981122 00:00:00"
+    },
+    {
+        "card_id":392,
+        "disp_id":2496,
+        "type":"classic",
+        "issued":"981122 00:00:00"
+    },
+    {
+        "card_id":523,
+        "disp_id":3319,
+        "type":"junior",
+        "issued":"981123 00:00:00"
+    },
+    {
+        "card_id":1175,
+        "disp_id":12494,
+        "type":"classic",
+        "issued":"981124 00:00:00"
+    },
+    {
+        "card_id":466,
+        "disp_id":2998,
+        "type":"classic",
+        "issued":"981125 00:00:00"
+    },
+    {
+        "card_id":500,
+        "disp_id":3192,
+        "type":"classic",
+        "issued":"981126 00:00:00"
+    },
+    {
+        "card_id":4,
+        "disp_id":42,
+        "type":"classic",
+        "issued":"981126 00:00:00"
+    },
+    {
+        "card_id":388,
+        "disp_id":2488,
+        "type":"junior",
+        "issued":"981126 00:00:00"
+    },
+    {
+        "card_id":164,
+        "disp_id":992,
+        "type":"classic",
+        "issued":"981129 00:00:00"
+    },
+    {
+        "card_id":489,
+        "disp_id":3135,
+        "type":"classic",
+        "issued":"981129 00:00:00"
+    },
+    {
+        "card_id":626,
+        "disp_id":3992,
+        "type":"classic",
+        "issued":"981130 00:00:00"
+    },
+    {
+        "card_id":1169,
+        "disp_id":12354,
+        "type":"classic",
+        "issued":"981130 00:00:00"
+    },
+    {
+        "card_id":1137,
+        "disp_id":11771,
+        "type":"gold",
+        "issued":"981201 00:00:00"
+    },
+    {
+        "card_id":677,
+        "disp_id":4382,
+        "type":"junior",
+        "issued":"981201 00:00:00"
+    },
+    {
+        "card_id":20,
+        "disp_id":131,
+        "type":"classic",
+        "issued":"981202 00:00:00"
+    },
+    {
+        "card_id":657,
+        "disp_id":4246,
+        "type":"junior",
+        "issued":"981202 00:00:00"
+    },
+    {
+        "card_id":219,
+        "disp_id":1329,
+        "type":"classic",
+        "issued":"981204 00:00:00"
+    },
+    {
+        "card_id":819,
+        "disp_id":5978,
+        "type":"gold",
+        "issued":"981206 00:00:00"
+    },
+    {
+        "card_id":1177,
+        "disp_id":12535,
+        "type":"gold",
+        "issued":"981206 00:00:00"
+    },
+    {
+        "card_id":341,
+        "disp_id":2156,
+        "type":"gold",
+        "issued":"981206 00:00:00"
+    },
+    {
+        "card_id":692,
+        "disp_id":4493,
+        "type":"classic",
+        "issued":"981208 00:00:00"
+    },
+    {
+        "card_id":715,
+        "disp_id":4639,
+        "type":"junior",
+        "issued":"981208 00:00:00"
+    },
+    {
+        "card_id":131,
+        "disp_id":725,
+        "type":"classic",
+        "issued":"981208 00:00:00"
+    },
+    {
+        "card_id":201,
+        "disp_id":1223,
+        "type":"classic",
+        "issued":"981208 00:00:00"
+    },
+    {
+        "card_id":605,
+        "disp_id":3874,
+        "type":"classic",
+        "issued":"981211 00:00:00"
+    },
+    {
+        "card_id":306,
+        "disp_id":1929,
+        "type":"classic",
+        "issued":"981211 00:00:00"
+    },
+    {
+        "card_id":378,
+        "disp_id":2430,
+        "type":"classic",
+        "issued":"981211 00:00:00"
+    },
+    {
+        "card_id":549,
+        "disp_id":3504,
+        "type":"classic",
+        "issued":"981212 00:00:00"
+    },
+    {
+        "card_id":371,
+        "disp_id":2388,
+        "type":"gold",
+        "issued":"981213 00:00:00"
+    },
+    {
+        "card_id":147,
+        "disp_id":826,
+        "type":"junior",
+        "issued":"981213 00:00:00"
+    },
+    {
+        "card_id":527,
+        "disp_id":3348,
+        "type":"junior",
+        "issued":"981214 00:00:00"
+    },
+    {
+        "card_id":172,
+        "disp_id":1030,
+        "type":"classic",
+        "issued":"981214 00:00:00"
+    },
+    {
+        "card_id":886,
+        "disp_id":7325,
+        "type":"classic",
+        "issued":"981215 00:00:00"
+    },
+    {
+        "card_id":479,
+        "disp_id":3085,
+        "type":"classic",
+        "issued":"981216 00:00:00"
+    },
+    {
+        "card_id":691,
+        "disp_id":4492,
+        "type":"classic",
+        "issued":"981216 00:00:00"
+    },
+    {
+        "card_id":560,
+        "disp_id":3577,
+        "type":"classic",
+        "issued":"981217 00:00:00"
+    },
+    {
+        "card_id":452,
+        "disp_id":2910,
+        "type":"classic",
+        "issued":"981219 00:00:00"
+    },
+    {
+        "card_id":506,
+        "disp_id":3236,
+        "type":"gold",
+        "issued":"981219 00:00:00"
+    },
+    {
+        "card_id":735,
+        "disp_id":4772,
+        "type":"classic",
+        "issued":"981219 00:00:00"
+    },
+    {
+        "card_id":654,
+        "disp_id":4230,
+        "type":"classic",
+        "issued":"981221 00:00:00"
+    },
+    {
+        "card_id":196,
+        "disp_id":1197,
+        "type":"classic",
+        "issued":"981222 00:00:00"
+    },
+    {
+        "card_id":473,
+        "disp_id":3063,
+        "type":"classic",
+        "issued":"981222 00:00:00"
+    },
+    {
+        "card_id":829,
+        "disp_id":6255,
+        "type":"classic",
+        "issued":"981222 00:00:00"
+    },
+    {
+        "card_id":310,
+        "disp_id":1947,
+        "type":"junior",
+        "issued":"981223 00:00:00"
+    },
+    {
+        "card_id":76,
+        "disp_id":464,
+        "type":"classic",
+        "issued":"981223 00:00:00"
+    },
+    {
+        "card_id":573,
+        "disp_id":3638,
+        "type":"classic",
+        "issued":"981223 00:00:00"
+    },
+    {
+        "card_id":240,
+        "disp_id":1459,
+        "type":"classic",
+        "issued":"981223 00:00:00"
+    },
+    {
+        "card_id":728,
+        "disp_id":4725,
+        "type":"classic",
+        "issued":"981224 00:00:00"
+    },
+    {
+        "card_id":924,
+        "disp_id":7862,
+        "type":"classic",
+        "issued":"981224 00:00:00"
+    },
+    {
+        "card_id":486,
+        "disp_id":3128,
+        "type":"gold",
+        "issued":"981225 00:00:00"
+    },
+    {
+        "card_id":1081,
+        "disp_id":10696,
+        "type":"classic",
+        "issued":"981225 00:00:00"
+    },
+    {
+        "card_id":753,
+        "disp_id":4974,
+        "type":"classic",
+        "issued":"981225 00:00:00"
+    },
+    {
+        "card_id":442,
+        "disp_id":2796,
+        "type":"classic",
+        "issued":"981226 00:00:00"
+    },
+    {
+        "card_id":125,
+        "disp_id":694,
+        "type":"gold",
+        "issued":"981226 00:00:00"
+    },
+    {
+        "card_id":674,
+        "disp_id":4360,
+        "type":"classic",
+        "issued":"981228 00:00:00"
+    },
+    {
+        "card_id":322,
+        "disp_id":2063,
+        "type":"classic",
+        "issued":"981228 00:00:00"
+    },
+    {
+        "card_id":685,
+        "disp_id":4467,
+        "type":"classic",
+        "issued":"981229 00:00:00"
+    },
+    {
+        "card_id":635,
+        "disp_id":4083,
+        "type":"classic",
+        "issued":"981229 00:00:00"
+    }
+]
