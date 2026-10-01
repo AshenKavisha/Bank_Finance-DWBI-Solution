@@ -1,4 +1,4 @@
-USE CzechBank_OLTP;
+USE CzechBank_DW;
 GO
 
 /* 1. Create the card table */
