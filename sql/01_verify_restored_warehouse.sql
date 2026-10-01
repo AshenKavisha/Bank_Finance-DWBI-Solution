@@ -32,4 +32,4 @@ EXEC sp_help 'dbo.DimDate';
 EXEC sp_help 'dbo.DimDistrict';
 EXEC sp_help 'dbo.FactTransaction';
 EXEC sp_help 'dbo.FactLoan';
-GO
+GO  .
