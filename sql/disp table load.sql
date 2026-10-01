@@ -1,4 +1,4 @@
-USE lpetrocelli_czech_financial;
+USE CzechBank_DW;
 GO
 
 -- Clean up a temporary table from an earlier failed attempt
